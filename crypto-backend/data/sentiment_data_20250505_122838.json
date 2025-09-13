@@ -1,0 +1,15 @@
+{
+    "overall": {
+        "sentiment": 50.0,
+        "social_sentiment": 50,
+        "news_sentiment": 50,
+        "fear_greed_index": 50,
+        "timestamp": "2025-05-05 12:28:38"
+    },
+    "crypto_specific": {},
+    "sources": [],
+    "rankings": {
+        "positive": [],
+        "negative": []
+    }
+}

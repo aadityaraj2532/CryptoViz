@@ -1,0 +1,174 @@
+/* Normalized Trend Page Specific Styles */
+
+/* Buttons */
+.btn-timeframe {
+    margin: 5px;
+    padding: 5px 15px;
+    background-color: var(--card-header-bg);
+    color: var(--text-color);
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn-timeframe.active {
+    background-color: var(--primary-color);
+    color: var(--button-text);
+}
+
+/* Stats Grid */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.stat-item {
+    background-color: var(--card-bg);
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+}
+
+.stat-label {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.stat-value {
+    font-size: 1.2rem;
+    color: var(--text-color);
+    font-weight: bold;
+}
+
+/* Footer styles are now in footer.css */
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    .stats-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .btn-timeframe {
+        font-size: 0.9rem;
+        padding: 5px 10px;
+    }
+
+    .app-header h1 {
+        font-size: 2rem;
+    }
+
+    .app-header .subtitle {
+        font-size: 0.9rem;
+    }
+}
+
+
+/* Chart container height override */
+.chart-container {
+    /* Use common.css responsive settings */
+    width: 100%;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+/* Ensure canvas takes full container dimensions */
+canvas {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+/* Chart explanation styling */
+.chart-explanation {
+    background-color: var(--card-bg);
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    margin-top: 15px;
+}
+
+.chart-explanation h5 {
+    color: var(--text-color);
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.chart-explanation ul {
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+
+.chart-explanation li {
+    color: var(--text-secondary);
+    margin-bottom: 5px;
+    line-height: 1.4;
+}
+
+.chart-panel {
+    box-shadow: var(--shadow);
+    border-radius: 10px;
+    padding: 20px;
+    background-color: var(--card-bg) !important;
+    border: 1px solid var(--border-color);
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+    width: 100%; /* Ensure full width */
+    margin: 0; /* Remove any margin */
+}
+
+/* Chart title styling */
+.crypto-info h2 {
+    color: var(--text-color) !important;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    transition: color 0.3s ease;
+}
+
+/* Card header styling */
+.card-header {
+    background-color: var(--card-bg) !important;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-color) !important;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Card body styling */
+.card-body {
+    background-color: var(--card-bg) !important;
+    color: var(--text-color) !important;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    max-height: none !important; /* Override max-height constraint from common.css */
+    width: 100% !important; /* Ensure full width */
+    display: block !important; /* Override flex display from common.css */
+}
+
+/* Time Range Buttons */
+.time-range-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.time-range-button {
+    padding: 8px 16px;
+    background-color: var(--card-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.time-range-button:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.time-range-button.active {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+/* App container styles are now in common.css */

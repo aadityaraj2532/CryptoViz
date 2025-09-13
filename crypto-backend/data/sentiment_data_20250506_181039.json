@@ -1,0 +1,883 @@
+{
+    "overall": {
+        "sentiment": 58.17663333333333,
+        "social_sentiment": 55.04600000000001,
+        "news_sentiment": 59.72566666666667,
+        "fear_greed_index": 59,
+        "timestamp": "2025-05-06 18:10:39"
+    },
+    "crypto_specific": {
+        "ETH": {
+            "sentiment_scores": [
+                62.5,
+                51.29,
+                50.0,
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Ethereum Open Interest Drops To November 2024 Levels, But Price Remains Below $2,000",
+                    "sentiment": 62.5
+                },
+                {
+                    "type": "news",
+                    "title": "Senator Rips GENIUS Act, Alleges Trump Cashing In On USD1 Coin",
+                    "sentiment": 51.29
+                },
+                {
+                    "type": "reddit",
+                    "title": "PumpFun generated $294 million in fees so far in 2025, surpassing Ethereum\u2019s $249 million.",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "Vitalik Buterin Proposed an Architecture Change to Simplify and Speed up Ethereum by up to 100X | EVM Replacement with RISC-V",
+                    "sentiment": 50.0
+                }
+            ]
+        },
+        "BTC": {
+            "sentiment_scores": [
+                50.0,
+                50.0,
+                69.08999999999999,
+                50.0,
+                50.0,
+                17.570000000000004,
+                50.0,
+                88.58500000000001,
+                63.660000000000004,
+                50.0,
+                50.0,
+                50.0,
+                50.0,
+                50.0,
+                50.0,
+                69.08999999999999
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Breaking Down The New US Crypto Market Structure Bill Draft: 6 Key Insights",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Strategy Starts May With $180 Million Bitcoin Purchase\u2014Will Larger Buys Follow?",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Breaking Down The New US Crypto Market Structure Bill Draft: 6 Key Insights",
+                    "sentiment": 69.08999999999999
+                },
+                {
+                    "type": "news",
+                    "title": "Strategy Starts May With $180 Million Bitcoin Purchase\u2014Will Larger Buys Follow?",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Binance Founder Proposes BNB And Bitcoin For Kyrgyzstan\u2019s Strategic Crypto Reserve",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Bitcoin Nears Crucial Golden Cross Signal, But Analyst Warns Of Underlying Weakness \u2013 Details",
+                    "sentiment": 17.570000000000004
+                },
+                {
+                    "type": "news",
+                    "title": "Bitcoin Bullish Signal: Investors Withdraw Big From Binance",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Crypto Drama In France: Police Rescue Millionaire\u2019s Kidnapped Father",
+                    "sentiment": 88.58500000000001
+                },
+                {
+                    "type": "news",
+                    "title": "Bitcoin\u2019s Price Faces Risk Of A Pullback Once This Key Support Level Fails",
+                    "sentiment": 63.660000000000004
+                },
+                {
+                    "type": "reddit",
+                    "title": "100 BTC gold bar bought for $12,000, 12 years ago. A $10,000,000 HODL \u2728",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "BitcoinOS Demo Sends BTC to Cardano and Back\u2014Without a Cross-Chain Bridge",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "Dormant Bitcoin whales awaken after a decade, $325m moved ahead of Fed rate decision",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "Bitcoin Entered 5th Green Week After 2023",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "Blackrock increases its position in the iShares Bitcoin ETF by 124%, bringing its total holdings to $314 million",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "Me in 2009 instead of buying Bitcoin",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "Cannes Goes Crypto: 90% of Merchants to Accept Bitcoin & More by Summer, Says City Council",
+                    "sentiment": 69.08999999999999
+                }
+            ]
+        },
+        "BNB": {
+            "sentiment_scores": [
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Binance Founder Proposes BNB And Bitcoin For Kyrgyzstan\u2019s Strategic Crypto Reserve",
+                    "sentiment": 50.0
+                }
+            ]
+        },
+        "XRP": {
+            "sentiment_scores": [
+                44.865
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "XRP Price To $1,000: Analyst Reveals Target For When Banks Start Using XRP",
+                    "sentiment": 44.865
+                }
+            ]
+        },
+        "DOGE": {
+            "sentiment_scores": [
+                77.115,
+                68.06
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "What Happens If The Dogecoin Price Repeats Its Legendary 68,000% Run?",
+                    "sentiment": 77.115
+                },
+                {
+                    "type": "news",
+                    "title": "Dogecoin Price Ready For Next 500% Wave, Here\u2019s The Target",
+                    "sentiment": 68.06
+                }
+            ]
+        },
+        "SOL": {
+            "sentiment_scores": [
+                14.52
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "$33M Solaxy Presale Could Fix Critical Solana Blockchain Issues",
+                    "sentiment": 14.52
+                }
+            ]
+        },
+        "UNI": {
+            "sentiment_scores": [
+                51.29,
+                85.44
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Senator Rips GENIUS Act, Alleges Trump Cashing In On USD1 Coin",
+                    "sentiment": 51.29
+                },
+                {
+                    "type": "reddit",
+                    "title": "Join the vibrant community-driven world of BitCraft Online, one of the first open-source MMORPG's and Wishlist Now on Steam!",
+                    "sentiment": 85.44
+                }
+            ]
+        },
+        "ADA": {
+            "sentiment_scores": [
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "reddit",
+                    "title": "BitcoinOS Demo Sends BTC to Cardano and Back\u2014Without a Cross-Chain Bridge",
+                    "sentiment": 50.0
+                }
+            ]
+        }
+    },
+    "sources": [
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Ethereum Open Interest Drops To November 2024 Levels, But Price Remains Below $2,000",
+            "text": "",
+            "url": "https://bitcoinist.com/ethereum-open-interest-2000-2/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 62.5,
+            "mentioned_cryptos": [
+                "ETH"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Breaking Down The New US Crypto Market Structure Bill Draft: 6 Key Insights",
+            "text": "",
+            "url": "https://bitcoinist.com/breaking-down-the-us-crypto-market-structure-bill/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Strategy Starts May With $180 Million Bitcoin Purchase\u2014Will Larger Buys Follow?",
+            "text": "",
+            "url": "https://bitcoinist.com/strategy-may-180-million-bitcoin-purchase-buys/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Breaking Down The New US Crypto Market Structure Bill Draft: 6 Key Insights",
+            "text": "In line with US President Donald Trump's regulatory agenda aimed at fostering innovation and broader adoption of cryptocurrencies in the...",
+            "url": "https://bitcoinist.com/breaking-down-the-us-crypto-market-structure-bill/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 69.08999999999999,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Strategy Starts May With $180 Million Bitcoin Purchase\u2014Will Larger Buys Follow?",
+            "text": "Michael Saylor's Strategy has announced a new Bitcoin purchase to start off May. Here's how the rest of the month...",
+            "url": "https://bitcoinist.com/strategy-may-180-million-bitcoin-purchase-buys/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Binance Founder Proposes BNB And Bitcoin For Kyrgyzstan\u2019s Strategic Crypto Reserve",
+            "text": "Changpeng Zhao (CZ), the co-founder and former CEO of crypto exchange Binance, has taken on a pivotal advisory role in...",
+            "url": "https://bitcoinist.com/binance-founder-bnb-and-bitcoin-for-kyrgyzstan/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC",
+                "BNB"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Bitcoin Nears Crucial Golden Cross Signal, But Analyst Warns Of Underlying Weakness \u2013 Details",
+            "text": "According to a recent X post by noted crypto analyst Titan of Crypto, Bitcoin (BTC) is fast approaching a golden...",
+            "url": "https://bitcoinist.com/bitcoin-nears-crucial-golden-cross-signal-but-analyst-warns-of-underlying-weakness-details/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 17.570000000000004,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Bitcoin Bullish Signal: Investors Withdraw Big From Binance",
+            "text": "On-chain data shows the Bitcoin Exchange Reserve for the Binance platform has plummeted recently, a sign that could be bullish...",
+            "url": "https://bitcoinist.com/bitcoin-bullish-investors-withdraw-big-binance/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "XRP Price To $1,000: Analyst Reveals Target For When Banks Start Using XRP",
+            "text": "XRP is currently finding it hard to close above $2.20 on the daily timeframe, which caused it to close its...",
+            "url": "https://bitcoinist.com/xrp-price-to-1000-target/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 44.865,
+            "mentioned_cryptos": [
+                "XRP"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Crypto Drama In France: Police Rescue Millionaire\u2019s Kidnapped Father",
+            "text": "Crypto riches turned into a nightmare in Paris, where a father was kidnapped in broad daylight to force his millionaire...",
+            "url": "https://bitcoinist.com/crypto-drama-in-france-police-rescue-millionaires-kidnapped-father/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 88.58500000000001,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "What Happens If The Dogecoin Price Repeats Its Legendary 68,000% Run?",
+            "text": "Crypto analyst Glory has revealed what would happen if the Dogecoin price were to repeat its legendary 68,000% run in...",
+            "url": "https://bitcoinist.com/dogecoin-historic-68000-run/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 77.115,
+            "mentioned_cryptos": [
+                "DOGE"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Bitcoin\u2019s Price Faces Risk Of A Pullback Once This Key Support Level Fails",
+            "text": "During the ongoing market uptrend, Bitcoin continues to lead the bullish wave as the leading crypto asset records significant gains,...",
+            "url": "https://bitcoinist.com/bitcoins-faces-risk-of-a-pullback/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 63.660000000000004,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Dogecoin Price Ready For Next 500% Wave, Here\u2019s The Target",
+            "text": "The Dogecoin price, currently trading below $0.2, appears to be gearing up for an explosive move, with technical analysts eyeing...",
+            "url": "https://bitcoinist.com/dogecoin-ready-for-500-wave/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 68.06,
+            "mentioned_cryptos": [
+                "DOGE"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "$33M Solaxy Presale Could Fix Critical Solana Blockchain Issues",
+            "text": "After critical issues with the Solana blockchain let an unknown hacker exploit a zero-day vulnerability and mint and withdraw tokens...",
+            "url": "https://bitcoinist.com/33m-solaxy-presale-could-solve-solana-critical-security-issue/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 14.52,
+            "mentioned_cryptos": [
+                "SOL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Senator Rips GENIUS Act, Alleges Trump Cashing In On USD1 Coin",
+            "text": "United States Sen. Elizabeth Warren is urging Congress to reject the GENIUS Act, a bill that would potentially pave the...",
+            "url": "https://bitcoinist.com/senator-rips-genius-act-alleges-trump-cashing-in-on-usd1-coin/",
+            "timestamp": "2025-05-06 18:10:36",
+            "sentiment": 51.29,
+            "mentioned_cryptos": [
+                "ETH",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Citi and SDX partner to tokenize traditional private markets",
+            "text": "Investment bank\u00a0Citi\u00a0and Switzerland\u2019s SIX Digital Exchange (SDX) are teaming up to modernize traditional private markets through tokenization.The initiative, revealed during the Point Zero Forum in S...",
+            "url": "https://cointelegraph.com/news/citi-sdx-tokenize-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 99.83,
+            "mentioned_cryptos": [
+                "ETH",
+                "SOL",
+                "UNI",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bitcoin risks sub-$92K retest as BTC price fails to match 4% gold gains",
+            "text": "Key points:Bitcoin is struggling again as gold retakes the limelight with week-to-date gains of nearly 5%.Bitcoin\u2019s correlation with gold is under scrutiny amid ongoing macroeconomic shifts.Traders se...",
+            "url": "https://cointelegraph.com/news/bitcoin-faces-91-6-k-retest-btc-price-fails-match-gold-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 87.895,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SOL",
+                "LINK"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bitcoin price forms two BTC futures gaps after Coinbase premium flips negative",
+            "text": "Key takeaways: Bitcoin\u2019s Coinbase premium index turned negative for the first time in 15 days, indicating defensive short-term sentiment among US investors.Bitcoin CME futures gaps between support at ...",
+            "url": "https://cointelegraph.com/news/bitcoin-price-btc-futures-gaps-after-coinbase-premium-turns-negative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 13.829999999999998,
+            "mentioned_cryptos": [
+                "BTC",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Research DAO claims paralyzed rats recover after spinal cord fix",
+            "text": "Decentralized autonomous organization (DAO) HydraDAO claims that its researchers were able to use a novel technique to repair severed spines in rats.In a May 5 X post, decentralized science (DeSci) pr...",
+            "url": "https://cointelegraph.com/news/hydradao-spinal-cord-repair-neuropeg-rats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 96.735,
+            "mentioned_cryptos": [
+                "ETH",
+                "SOL",
+                "ADA",
+                "MATIC",
+                "UNI",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "How much Bitcoin can Berkshire Hathaway buy?",
+            "text": "Key takeaways:Berkshire holds $347B in cash, enough to buy ~18% of Bitcoin\u2019s supply.Greg Abel has not signaled a shift from Warren Buffett\u2019s anti-Bitcoin stance.Berkshire already has indirect crypto e...",
+            "url": "https://cointelegraph.com/news/how-much-bitcoin-can-berkshire-hathaway-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 95.7,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SOL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Is the Paws Telegram mini app legit? What you need to know",
+            "text": "                 What is the Paws Telegram Mini App?              Paws is a Telegram-based Mini App created by the same team behind other projects, such as Notcoin and Dogs.\u00a0If you\u2019ve been cruising ar...",
+            "url": "https://cointelegraph.com/explained/is-paws-telegram-mini-app-legit-what-you-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 99.96499999999999,
+            "mentioned_cryptos": [
+                "SOL",
+                "ADA",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Crypto spending will grow, but fiat isn\u2019t going anywhere: Mercuryo CEO",
+            "text": "Petr Kozyakov, CEO of crypto payments platform Mercuryo, told Cointelegraph that the future of finance may not be a winner-takes-all scenario but a blend of digital assets and fiat, each used where it...",
+            "url": "https://cointelegraph.com/news/crypto-payments-mercuryo-ceo-token2049-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 99.79,
+            "mentioned_cryptos": [
+                "ETH"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "IRS appoints Trish Turner to head crypto division amid resignations",
+            "text": "Veteran US Internal Revenue Service (IRS) official Trish Turner was appointed to lead the agency\u2019s digital assets division following the departure of two key crypto-focused executives.Turner, who has ...",
+            "url": "https://cointelegraph.com/news/trish-turner-irs-crypto-division-leadership-shiftpto-division-amid-leadership-shakeup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 60.199999999999996,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SOL",
+                "LINK",
+                "UNI",
+                "FIL",
+                "VET"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "OKX exec warns against hype amid real-world asset tokenization boom",
+            "text": "The CEO of crypto exchange OKX\u2019s Middle East and North Africa (MENA) division has called on the industry to prioritize real-world utility as interest in tokenizing real-world assets (RWAs) continues t...",
+            "url": "https://cointelegraph.com/news/okx-mena-ceo-rwa-tokenization-boom-token2049-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 99.9,
+            "mentioned_cryptos": [
+                "ETH",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bitcoin vs. digital fiat is freedom vs. serfdom",
+            "text": "Opinion by: Simon Cain, contributor at Bitcoin Policy UKMost jurisdictions globally are researching, developing or implementing retail central bank digital currencies (CBDCs). If you see these as harm...",
+            "url": "https://cointelegraph.com/news/bitcoin-is-freedom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 96.345,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SOL",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "US Senate crypto bills stall amid Trump ties and ethics concerns",
+            "text": "Efforts to pass crypto legislation in the US Senate face mounting resistance amid growing ethical concerns around US President Donald Trump\u2019s ties to crypto.In a May 5 letter to the Office of Governme...",
+            "url": "https://cointelegraph.com/news/senate-crypto-bills-trump-ethics-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 47.42,
+            "mentioned_cryptos": [
+                "ETH",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bitcoin Core to unilaterally remove controversial OP-Return limit",
+            "text": "Bitcoin Core developers have decided to remove a limit on transaction data in the next network upgrade, enabling more data to be included in a more efficient way.\u00a0\u201cBitcoin Core\u2019s next release will, by...",
+            "url": "https://cointelegraph.com/news/bitcoin-core-unilaterally-remove-controversial-op-return-limit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 5.480000000000001,
+            "mentioned_cryptos": [
+                "BTC",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Celsius\u2019 Mashinsky lashes out at \u2018death-in-prison sentence\u2019",
+            "text": "Alex Mashinsky, the founder and former CEO of bankrupt crypto lending platform Celsius, has blasted the government's 20-year \u201cvenom-laced\u201d sentence request, declaring it a \u201cdeath-in-prison sentence.\u201dT...",
+            "url": "https://cointelegraph.com/news/celsius-mashinsky-lashes-govt-death-in-prison-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 0.7299999999999973,
+            "mentioned_cryptos": [
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "eToro aims for $4B valuation, $500M raise for US IPO",
+            "text": "The Israel-based eToro Group says it\u2019s looking for a valuation of up to $4 billion with its initial public offering in the US, as the stock and crypto trading platform forges ahead with listing on the...",
+            "url": "https://cointelegraph.com/news/etoro-us-ipo-4-billion-valuation-500-million-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 79.635,
+            "mentioned_cryptos": [
+                "UNI",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Suspect in $190M Nomad hack to be extradited to the US: Report",
+            "text": "A Russian-Israeli citizen allegedly involved in the $190 million Nomad bridge hack will soon be extradited to the US after he was reportedly arrested at an Israeli airport while boarding a flight to R...",
+            "url": "https://cointelegraph.com/news/suspect-behind-190-million-nomad-bridge-hack-extradited-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-06 18:10:37",
+            "sentiment": 1.0599999999999998,
+            "mentioned_cryptos": [
+                "FIL"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Moon Week 61",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kbha3b/moon_week_61/",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Daily Crypto Discussion - May 6, 2025 (GMT+0)",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kfqwmm/daily_crypto_discussion_may_6_2025_gmt0/",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Altseason 2021 vs. Altseason 2025",
+            "text": "",
+            "url": "https://i.redd.it/x8rjv420m4ze1.png",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Never miss another trade! Accurate trading signals. 7-day free trial.",
+            "text": "",
+            "url": "https://alb.reddit.com/cr?za=bpsnh_raIxX7JRYMVd5EOjYRdAb6DOQAriFzuq6kXtYYArFr91hOzQ8OqkFI4Ovg7TGlhJqoInIr1lNiKzrzokb2lH8bceg17n0dL5Ke06zNfERXpJX3UPaaVRwaC5rqyXAPf2sbgkBKYVIpa7JrZeb_CPyXhT0dtb6-uorsNCdzYcCNlq67gW68Yvqml-ipMwjdSXwFgPTgwMBI6bpCRrTgMuO5IHtpBJfsiilHUiqqhYVKJ-aOsj49LNmLd51TdwOgC9EL1ivC1n9Hhi98s4icKssksjnHzttQ7qNHIdYUf04dNv2SAqwbw4nsTJG3ixgxPS77PnmQAIAeUrwy9lQLN64CdEwghyBuUGLaV3n12tiuPrU1mwKGu0b06XAPidEUt5zjMkS3R6eQ3-09k0EwWOi4RJpq2Bg6V_nFJkmCDDC4gh8-C6Wu23pfS5UYVho006l_E_80AHEQF8My3TV_VLXD4FZh1FO4uWKVuBz5JPtdWEjUECPRvkXqtDKYOU0uPvwfm5xjKbtDcRBxwzKO7TdHIWfhvVdo2SU0RnDwSVjj&zp=7Lvjjm3lXJfvF0zph7y1x0y-bE2aQzpsY6i-mbA1d1wnhcBfkgEei5GIcOFsepC4ZxgmDj0xfk9KY8SgRtJbIdTESrhQg-n2RdNqos47EUMv-WLBf9S9-hxcu5g_ahDHuNcY68fn-lYc7JyAQw6WX55DDiFfjtKmrgFLgL2G71a5XHnVZ2kWgGIX2xwHcMlwycl6camKJ9CQgHW5477O1MewKBRtbKfuXeOD2QDDI7ECYpFVsSDYU42L6DWxYFmVJaAeqLKQX0EOnnz7",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 80.845,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "\ud83d\ude80 Introducing Centrix (CLC): The Future of Hybrid Blockchain Technology",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kg0kwi/introducing_centrix_clc_the_future_of_hybrid/",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Checkmate comrade",
+            "text": "",
+            "url": "https://i.redd.it/9p9z3dsebzye1.png",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "100 BTC gold bar bought for $12,000, 12 years ago. A $10,000,000 HODL \u2728",
+            "text": "",
+            "url": "https://i.redd.it/7wcidoptzyye1.png",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Dormant Bitcoin whales awaken after a decade, $325m moved ahead of Fed rate decision",
+            "text": "",
+            "url": "https://crypto.news/dormant-bitcoin-whales-awaken-after-a-decade-325m-moved-ahead-of-fed-rate-decision/",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Bitcoin Entered 5th Green Week After 2023",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kg22dx/bitcoin_entered_5th_green_week_after_2023/",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Blackrock increases its position in the iShares Bitcoin ETF by 124%, bringing its total holdings to $314 million",
+            "text": "",
+            "url": "https://x.com/thepfund/status/1919577687187652694?s=46&t=clsfbuVabZ68feMKUiuZ_A",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Trump family's net worth has increased by $2.9 billion thanks to crypto investments, new report says",
+            "text": "",
+            "url": "https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 85.48,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Me in 2009 instead of buying Bitcoin",
+            "text": "",
+            "url": "https://i.redd.it/3071gv2tmvye1.jpeg",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "PumpFun generated $294 million in fees so far in 2025, surpassing Ethereum\u2019s $249 million.",
+            "text": "",
+            "url": "https://www.reddit.com/gallery/1kfks8y",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "ETH"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Coinbase Is Reportedly Selling Geolocation Data to ICE",
+            "text": "",
+            "url": "https://finance.yahoo.com/news/coinbase-reportedly-selling-geo-location-235816513.html",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Join the vibrant community-driven world of BitCraft Online, one of the first open-source MMORPG's and Wishlist Now on Steam!",
+            "text": "",
+            "url": "https://alb.reddit.com/cr?za=JjjpoIXhS_TZofN5KjibByGaR6VBPqFg-lpjFGf_xsyTKieh1W3XGbiDfu3CgMtC0GwPw42vguwSpYM-6Kog95aNb3O3ACvj_LLCIPtE2JXbxgP6eRJ0iUpP0u9ii1d_aI4BJXTAUrRSamU8IhnW6LScJIlAt4KsED8hntcY-LTSUV0U-51Q36zM6-D2MjHeATXsJe7T-slmMgyf6O0SL2-LRk1QgVFE9EA6hSgqIz0TOq-3jsVb1LXjXYW78JUbPglBNOVOu0-mgPtsC5JkJ8YN99lq8BQTAoD-mlJBVEOaU-EEstpdR_EerdvtRvIarj0gv5vzyRCuZWxZGC5NDTa_BoyaFXvuyZ0sxD4rO8gi5VVjSzhefMvGmP_0OqEfHF0paWcKjOixtVRg6oGPNsFLSQZ4BHmysX7Ldc733_g_JughXwBy34xLiFUHEd9FNUsEhMxKqIsZpUXRtv2JmHdmVjK4wP3aoXtOopCIu-I-rMdF0yhwjj2tfiSz4rIbJc3OHnQ_QPa8r2ID5AvYA0zS5IrMa5mK4NBVaZ7QkeuusBGRe-yr3g&zp=g1y23-hBJF5HgjHWBdaPjRq8ifwmlYbW8ucbqozt5q8fHyYhmKmJ_R_DdiiZ4alVdTpbttW1eetysbNC8Je1l5DvJM2YGTcU8Ho5Btt5_BU-MhnUCGbgmMJO79iMjLYmLBXAl6T33Ab5MkVUYXabkPtUuIads_WP7a9XJ5ICOL-lfEmp1TEHAsMClP69urVcTusm_RASM93ANm0eaJ-XgyHOM-vSiqVYsMUZVeiV7vDM5wxysD4jk4WvI0nd9KUqt6gL1a8gn5zG0cWgqWqsKkk1SkRKI-swI7TPkTFMmzVr_aC_XbVCNVMDe59vI_0qsR7RGrDjXhkn37s",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 85.44,
+            "mentioned_cryptos": [
+                "UNI"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Cannes Goes Crypto: 90% of Merchants to Accept Bitcoin & More by Summer, Says City Council",
+            "text": "",
+            "url": "https://www.reddit.com/gallery/1kfm2mz",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 69.08999999999999,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Retail Traders Embracing \u2018Gamble\u2019 Mindset As Memecoin Discussions Hit Highest Level This Year, Warns Santiment",
+            "text": "",
+            "url": "https://dailyhodl.com/2025/05/05/retail-traders-embracing-gamble-mindset-as-memecoin-discussions-hit-highest-level-this-year-warns-santiment/",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 44.865,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Vitalik Buterin Proposed an Architecture Change to Simplify and Speed up Ethereum by up to 100X | EVM Replacement with RISC-V",
+            "text": "",
+            "url": "https://peakd.com/hive-167922/@vikvitnik/vitalik-buterin-proposed-an-architecture-change-to-simplify-and-speed-up-ethereum-by-up-to-100x-evm-replacement-with-riscv-2ak",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "ETH"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Suspect in $190M Nomad hack to be extradited to the US",
+            "text": "",
+            "url": "https://peakd.com/hive-167922/@justmythoughts/suspect-in-usd190m-nomad-hack",
+            "timestamp": "2025-05-06 18:10:39",
+            "sentiment": 35.199999999999996,
+            "mentioned_cryptos": []
+        }
+    ],
+    "rankings": {
+        "positive": [
+            {
+                "symbol": "DOGE",
+                "name": "Dogecoin",
+                "score": 72.5875,
+                "change": 0,
+                "sources_count": 2
+            },
+            {
+                "symbol": "UNI",
+                "name": "Uniswap",
+                "score": 68.365,
+                "change": 0,
+                "sources_count": 2
+            },
+            {
+                "symbol": "BTC",
+                "name": "Bitcoin",
+                "score": 53.6246875,
+                "change": 0,
+                "sources_count": 16
+            },
+            {
+                "symbol": "ETH",
+                "name": "Ethereum",
+                "score": 53.4475,
+                "change": 0,
+                "sources_count": 4
+            },
+            {
+                "symbol": "BNB",
+                "name": "Binance Coin",
+                "score": 50.0,
+                "change": 0,
+                "sources_count": 1
+            }
+        ],
+        "negative": [
+            {
+                "symbol": "SOL",
+                "name": "Solana",
+                "score": 14.52,
+                "change": 0,
+                "sources_count": 1
+            },
+            {
+                "symbol": "XRP",
+                "name": "Ripple",
+                "score": 44.865,
+                "change": 0,
+                "sources_count": 1
+            }
+        ]
+    }
+}

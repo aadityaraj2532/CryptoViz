@@ -1,0 +1,212 @@
+/* Common styles shared across all pages */
+
+/* Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: all 0.3s ease;
+    line-height: 1.6;
+}
+
+.app-container {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Animated Background */
+.animated-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(-45deg, var(--primary-color), var(--secondary-color), var(--accent-color));
+    background-size: 400% 400%;
+    animation: gradientBG 15s ease infinite;
+    opacity: 0.03;
+    z-index: -1;
+}
+
+@keyframes gradientBG {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* Common Card Styles */
+.card {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    height: 100%;
+}
+
+.card-header {
+    background-color: var(--card-header-bg);
+    border-bottom: 1px solid var(--border-color);
+    padding: 1.5rem;
+    font-weight: 600;
+    vertical-align: middle;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* align-items: center; */
+}
+
+.card-body {
+    /* display: flex; */
+    padding: 1.5rem;
+    max-height: 80vh; /* Use viewport height for better responsiveness */
+    overflow: auto; /* Add scrollbar when needed */
+}
+
+/* Common Button Styles */
+.btn {
+    border-radius: 5px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+.btn-outline-primary {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-outline-primary:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+/* Common Text Styles */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--text-color);
+    margin-bottom: 1rem;
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--secondary-color);
+}
+
+/* Common Chart Styles */
+.chart-container {
+    position: relative;
+    height: 65vh; /* Use viewport height for better responsiveness */
+    min-height: 400px; /* Minimum height on all devices */
+    max-height: 700px; /* Maximum height on large screens */
+    width: 100%;
+    margin: 20px 0;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* overflow: hidden; */
+}
+
+canvas {
+    width: 100% !important;
+    height: 100% !important;
+    max-width: 100%;
+}
+
+/* Common Loading Styles */
+.loading-spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    border-top-color: var(--primary-color);
+    animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Common Error Message Styles */
+.error-message {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+    color: var(--negative-color);
+}
+
+/* Responsive Styles */
+@media (max-width: 1200px) {
+    .chart-container {
+        height: 60vh;
+        min-height: 400px;
+        max-height: 650px;
+    }
+}
+
+@media (max-width: 992px) {
+    .chart-container {
+        height: 55vh;
+        min-height: 350px;
+        max-height: 600px;
+    }
+}
+
+@media (max-width: 768px) {
+    .chart-container {
+        height: 50vh;
+        min-height: 300px;
+        max-height: 500px;
+    }
+}
+
+@media (max-width: 576px) {
+    .chart-container {
+        height: 45vh;
+        min-height: 250px;
+        max-height: 400px;
+    }
+}
+
+/* Landscape orientation on mobile */
+@media (max-width: 768px) and (orientation: landscape) {
+    .chart-container {
+        height: 70vh;
+        min-height: 200px;
+    }
+}

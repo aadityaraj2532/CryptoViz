@@ -1,0 +1,154 @@
+/* Volatility Page Specific Styles */
+
+/* Chart Container */
+.chart-container {
+    /* Use common.css responsive settings */
+    margin-top: 10px;
+}
+
+/* Specific style for volatility chart */
+#volatilityChart {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+/* Loading and Error Overlays */
+.loading-overlay, .error-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(var(--bg-color-rgb), 0.8);
+    z-index: 10;
+    border-radius: 8px;
+}
+
+.loading-spinner p {
+    margin-top: 10px;
+    color: var(--text-color);
+}
+
+.error-message i {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+/* Volatility Table */
+.volatility-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.volatility-table th,
+.volatility-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.volatility-table th {
+    background-color: var(--card-bg);
+    color: var(--text-color);
+    font-weight: 600;
+}
+
+.volatility-table tbody tr:hover {
+    background-color: rgba(67, 97, 238, 0.05);
+}
+
+.volatility-table .crypto-name {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.volatility-table .crypto-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+
+/* Volatility Indicator */
+.volatility-indicator {
+    width: 100%;
+    height: 8px;
+    background-color: #e9ecef;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.volatility-bar {
+    height: 100%;
+    border-radius: 4px;
+}
+
+.volatility-low {
+    background-color: #4cc9f0;
+}
+
+.volatility-medium {
+    background-color: #f8961e;
+}
+
+.volatility-high {
+    background-color: #f94144;
+}
+
+/* Time Range Buttons */
+.time-range-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.time-range-button {
+    padding: 8px 16px;
+    background-color: var(--card-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.time-range-button:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.time-range-button.active {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .volatility-table th,
+    .volatility-table td {
+        padding: 8px 10px;
+    }
+
+    .volatility-table .crypto-name {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+
+    .time-range-buttons {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 576px) {
+    .volatility-table th,
+    .volatility-table td {
+        padding: 6px 8px;
+        font-size: 0.9rem;
+    }
+}

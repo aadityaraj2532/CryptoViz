@@ -1,0 +1,17 @@
+/* Website Info Page Specific Styles */
+h3 {
+    margin-top: 2rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.lead {
+    color: var(--text-secondary);
+}
+/* Header styles are now in header.css */

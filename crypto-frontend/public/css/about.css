@@ -1,0 +1,38 @@
+/* About Page Specific Styles */
+p {
+    font-size: 1.2rem;
+}
+
+/* Team member cards */
+.col-md-4 {
+    margin-bottom: 30px;
+}
+
+.col-md-4 img {
+    border: 3px solid var(--border-color);
+    transition: transform 0.3s ease;
+}
+
+.col-md-4 img:hover {
+    transform: scale(1.05);
+}
+
+.col-md-4 h4 {
+    margin-top: 15px;
+    color: var(--text-color);
+}
+
+.col-md-4 p {
+    color: var(--text-secondary);
+}
+
+.col-md-4 a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.col-md-4 a:hover {
+    color: var(--secondary-color);
+    text-decoration: underline;
+}

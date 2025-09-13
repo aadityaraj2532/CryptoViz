@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CryptoViz API</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #444;
+            margin-top: 20px;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        .endpoint {
+            margin-bottom: 20px;
+            padding: 10px;
+            border-left: 3px solid #007bff;
+            background-color: #f8f9fa;
+        }
+        .method {
+            font-weight: bold;
+            color: #28a745;
+        }
+    </style>
+</head>
+<body>
+    <h1>CryptoViz API</h1>
+    <p>Welcome to the CryptoViz API. This API provides cryptocurrency data, historical prices, volatility metrics, correlation analysis, and sentiment data.</p>
+    
+    <h2>Available Endpoints</h2>
+    
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/crypto</code></p>
+        <p>Get the latest cryptocurrency data for all tracked cryptocurrencies.</p>
+    </div>
+    
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/crypto/{symbol}/history</code></p>
+        <p>Get historical price data for a specific cryptocurrency.</p>
+    </div>
+    
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/crypto/{symbol}/volatility</code></p>
+        <p>Get volatility metrics for a specific cryptocurrency.</p>
+    </div>
+    
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/crypto/volatility</code></p>
+        <p>Get volatility data for all cryptocurrencies.</p>
+    </div>
+    
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/crypto/correlation</code></p>
+        <p>Get the price correlation matrix between cryptocurrencies.</p>
+    </div>
+    
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/sentiment</code></p>
+        <p>Get the latest complete sentiment data.</p>
+        <p>This endpoint returns the latest sentiment data including overall sentiment,
+            cryptocurrency-specific sentiment, rankings, and all sentiment sources.</p>
+    </div>
+    
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/sentiment/overall</code></p>
+        <p>Get overall market sentiment data.</p>
+        <p>This endpoint provides aggregated sentiment metrics for the entire cryptocurrency
+            market over a specified time period.</p>
+    </div>
+    
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/sentiment/rankings</code></p>
+        <p>Get sentiment rankings for cryptocurrencies.</p>
+    </div>
+
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/sentiment/sources</code></p>
+        <p>Get sentiment data sources.</p>
+    </div>
+
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/sentiment/trend</code></p>
+        <p>Get sentiment trend data over time.</p>
+    </div>
+    
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/top-gainers</code></p>
+        <p>Get the latest top gaining cryptocurrencies.</p>
+    </div>
+
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/top-gainers/update</code></p>
+        <p>API endpoint to manually trigger a top gainers data update.</p>
+    </div>
+
+    <div class="endpoint">
+        <p><span class="method">GET</span> <code>/api/sentiment/update</code></p>
+        <p>API endpoint to manually trigger a sentiment data update.</p>
+    </div>
+    
+    </body>
+</html>

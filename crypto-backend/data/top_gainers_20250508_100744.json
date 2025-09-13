@@ -1,0 +1,202 @@
+[
+    {
+        "symbol": "mog",
+        "name": "Mog Coin",
+        "price": 9.04317e-07,
+        "market_cap": 353284516.0,
+        "volume_24h": 67810546.0,
+        "percent_change_24h": 39.11273,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 1
+    },
+    {
+        "symbol": "kaito",
+        "name": "KAITO",
+        "price": 1.45,
+        "market_cap": 349825150.0,
+        "volume_24h": 920919640.0,
+        "percent_change_24h": 29.53559,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 2
+    },
+    {
+        "symbol": "safe",
+        "name": "Safe",
+        "price": 0.576053,
+        "market_cap": 334412925.0,
+        "volume_24h": 108537917.0,
+        "percent_change_24h": 25.97189,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 3
+    },
+    {
+        "symbol": "eos",
+        "name": "EOS",
+        "price": 0.825946,
+        "market_cap": 1251764244.0,
+        "volume_24h": 469947856.0,
+        "percent_change_24h": 19.10661,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 4
+    },
+    {
+        "symbol": "brett",
+        "name": "Brett",
+        "price": 0.061576,
+        "market_cap": 609801661.0,
+        "volume_24h": 49653865.0,
+        "percent_change_24h": 15.58438,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 5
+    },
+    {
+        "symbol": "bera",
+        "name": "Berachain",
+        "price": 3.28,
+        "market_cap": 389859228.0,
+        "volume_24h": 152106185.0,
+        "percent_change_24h": 13.98506,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 6
+    },
+    {
+        "symbol": "spx",
+        "name": "SPX6900",
+        "price": 0.566932,
+        "market_cap": 526123700.0,
+        "volume_24h": 18156252.0,
+        "percent_change_24h": 13.40561,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 7
+    },
+    {
+        "symbol": "stx",
+        "name": "Stacks",
+        "price": 0.938838,
+        "market_cap": 1431175025.0,
+        "volume_24h": 196151115.0,
+        "percent_change_24h": 13.22004,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 8
+    },
+    {
+        "symbol": "mew",
+        "name": "cat in a dogs world",
+        "price": 0.00295988,
+        "market_cap": 262726060.0,
+        "volume_24h": 68399030.0,
+        "percent_change_24h": 12.45271,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 9
+    },
+    {
+        "symbol": "syrup",
+        "name": "Maple Finance",
+        "price": 0.238692,
+        "market_cap": 257678137.0,
+        "volume_24h": 111890428.0,
+        "percent_change_24h": 12.25637,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 10
+    },
+    {
+        "symbol": "trump",
+        "name": "Official Trump",
+        "price": 12.29,
+        "market_cap": 2436062447.0,
+        "volume_24h": 697403054.0,
+        "percent_change_24h": 12.23083,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 11
+    },
+    {
+        "symbol": "popcat",
+        "name": "Popcat",
+        "price": 0.454873,
+        "market_cap": 445011647.0,
+        "volume_24h": 239030180.0,
+        "percent_change_24h": 12.05758,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 12
+    },
+    {
+        "symbol": "bch",
+        "name": "Bitcoin Cash",
+        "price": 421.15,
+        "market_cap": 8358885736.0,
+        "volume_24h": 558385004.0,
+        "percent_change_24h": 11.743,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 13
+    },
+    {
+        "symbol": "ena",
+        "name": "Ethena",
+        "price": 0.300006,
+        "market_cap": 1744346180.0,
+        "volume_24h": 133016560.0,
+        "percent_change_24h": 10.95856,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 14
+    },
+    {
+        "symbol": "aero",
+        "name": "Aerodrome Finance",
+        "price": 0.667276,
+        "market_cap": 545597650.0,
+        "volume_24h": 40394282.0,
+        "percent_change_24h": 10.71861,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 15
+    },
+    {
+        "symbol": "theta",
+        "name": "Theta Network",
+        "price": 0.773996,
+        "market_cap": 773964666.0,
+        "volume_24h": 26989296.0,
+        "percent_change_24h": 9.7026,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 16
+    },
+    {
+        "symbol": "pepe",
+        "name": "Pepe",
+        "price": 8.8e-06,
+        "market_cap": 3703124295.0,
+        "volume_24h": 698818371.0,
+        "percent_change_24h": 9.4747,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 17
+    },
+    {
+        "symbol": "ray",
+        "name": "Raydium",
+        "price": 2.64,
+        "market_cap": 766282018.0,
+        "volume_24h": 82394197.0,
+        "percent_change_24h": 9.31921,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 18
+    },
+    {
+        "symbol": "axl",
+        "name": "Axelar",
+        "price": 0.378384,
+        "market_cap": 356600067.0,
+        "volume_24h": 23508356.0,
+        "percent_change_24h": 9.07744,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 19
+    },
+    {
+        "symbol": "akt",
+        "name": "Akash Network",
+        "price": 1.61,
+        "market_cap": 399377827.0,
+        "volume_24h": 29911104.0,
+        "percent_change_24h": 8.61512,
+        "timestamp": "2025-05-08 10:07:44",
+        "rank": 20
+    }
+]

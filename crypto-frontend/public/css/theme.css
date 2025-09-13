@@ -1,0 +1,319 @@
+:root {
+    /* Light Theme */
+    --light-bg: #f8f9fa;
+    --light-bg-rgb: 248, 249, 250;
+    --light-card-bg: #ffffff;
+    --light-card-bg-rgb: 255, 255, 255;
+    --light-text: #212529;
+    --light-text-secondary: #6c757d;
+    --light-primary: #4361ee;
+    --light-primary-rgb: 67, 97, 238;
+    --light-secondary: #3f37c9;
+    --light-accent: #4cc9f0;
+    --light-danger: #f72585;
+    --light-success: #10b981;
+    --light-warning: #f59e0b;
+    --light-info: #3b82f6;
+    --light-border: #e9ecef;
+    --light-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    --light-hover: rgba(0, 0, 0, 0.03);
+    --light-active: rgba(0, 0, 0, 0.05);
+    --light-chart-grid: rgba(0, 0, 0, 0.05);
+    --light-overlay: rgba(255, 255, 255, 0.8);
+    --light-positive: #10b981;
+    --light-positive-rgb: 16, 185, 129;
+    --light-negative: #ef4444;
+    --light-negative-rgb: 239, 68, 68;
+    --light-neutral: #6b7280;
+    --light-neutral-rgb: 107, 114, 128;
+
+    /* Dark Theme */
+    --dark-bg: #121212;
+    --dark-bg-rgb: 18, 18, 18;
+    --dark-card-bg: #1e1e1e;
+    --dark-card-bg-rgb: 30, 30, 30;
+    --dark-text: #e9ecef;
+    --dark-text-secondary: #adb5bd;
+    --dark-primary: #5a72f0;
+    --dark-primary-rgb: 90, 114, 240;
+    --dark-secondary: #4f46e5;
+    --dark-accent: #56d4f7;
+    --dark-danger: #ff2d6d;
+    --dark-success: #34d399;
+    --dark-warning: #fbbf24;
+    --dark-info: #60a5fa;
+    --dark-border: #2d2d2d;
+    --dark-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    --dark-hover: rgba(255, 255, 255, 0.05);
+    --dark-active: rgba(255, 255, 255, 0.1);
+    --dark-chart-grid: rgba(255, 255, 255, 0.05);
+    --dark-overlay: rgba(0, 0, 0, 0.8);
+    --dark-positive: #34d399;
+    --dark-positive-rgb: 52, 211, 153;
+    --dark-negative: #f87171;
+    --dark-negative-rgb: 248, 113, 113;
+    --dark-neutral: #9ca3af;
+    --dark-neutral-rgb: 156, 163, 175;
+}
+
+/* Light Theme Variables */
+[data-theme="light"] {
+    --bg-color: var(--light-bg);
+    --bg-color-rgb: var(--light-bg-rgb);
+    --card-bg: var(--light-card-bg);
+    --card-bg-rgb: var(--light-card-bg-rgb);
+    --text-color: var(--light-text);
+    --text-secondary: var(--light-text-secondary);
+    --primary-color: var(--light-primary);
+    --primary-color-rgb: var(--light-primary-rgb);
+    --secondary-color: var(--light-secondary);
+    --accent-color: var(--light-accent);
+    --danger-color: var(--light-danger);
+    --success-color: var(--light-success);
+    --warning-color: var(--light-warning);
+    --info-color: var(--light-info);
+    --border-color: var(--light-border);
+    --shadow: var(--light-shadow);
+    --hover-bg: var(--light-hover);
+    --active-bg: var(--light-active);
+    --chart-grid: var(--light-chart-grid);
+    --overlay-bg: var(--light-overlay);
+    --positive-color: var(--light-positive);
+    --positive-color-rgb: var(--light-positive-rgb);
+    --negative-color: var(--light-negative);
+    --negative-color-rgb: var(--light-negative-rgb);
+    --neutral-color: var(--light-neutral);
+    --neutral-color-rgb: var(--light-neutral-rgb);
+
+    /* Specific component colors */
+    --navbar-bg: #ffffff;
+    --navbar-text: #212529;
+    --card-header-bg: #f8f9fa;
+    --table-header-bg: #f1f5f9;
+    --table-border: #e5e7eb;
+    --table-hover: rgba(0, 0, 0, 0.02);
+    --footer-bg: #f8f9fa;
+    --footer-text: #6c757d;
+    --input-bg: #ffffff;
+    --input-border: #ced4da;
+    --input-text: #212529;
+    --button-text: #ffffff;
+    --code-bg: #f1f5f9;
+    --code-text: #1e293b;
+    --tooltip-bg: #ffffff;
+    --tooltip-text: #212529;
+}
+
+/* Dark Theme Variables */
+[data-theme="dark"] {
+    --bg-color: var(--dark-bg);
+    --bg-color-rgb: var(--dark-bg-rgb);
+    --card-bg: var(--dark-card-bg);
+    --card-bg-rgb: var(--dark-card-bg-rgb);
+    --text-color: var(--dark-text);
+    --text-secondary: var(--dark-text-secondary);
+    --primary-color: var(--dark-primary);
+    --primary-color-rgb: var(--dark-primary-rgb);
+    --secondary-color: var(--dark-secondary);
+    --accent-color: var(--dark-accent);
+    --danger-color: var(--dark-danger);
+    --success-color: var(--dark-success);
+    --warning-color: var(--dark-warning);
+    --info-color: var(--dark-info);
+    --border-color: var(--dark-border);
+    --shadow: var(--dark-shadow);
+    --hover-bg: var(--dark-hover);
+    --active-bg: var(--dark-active);
+    --chart-grid: var(--dark-chart-grid);
+    --overlay-bg: var(--dark-overlay);
+    --positive-color: var(--dark-positive);
+    --positive-color-rgb: var(--dark-positive-rgb);
+    --negative-color: var(--dark-negative);
+    --negative-color-rgb: var(--dark-negative-rgb);
+    --neutral-color: var(--dark-neutral);
+    --neutral-color-rgb: var(--dark-neutral-rgb);
+
+    /* Specific component colors */
+    --navbar-bg: #1a1a1a;
+    --navbar-text: #e9ecef;
+    --card-header-bg: #252525;
+    --table-header-bg: #252525;
+    --table-border: #2d2d2d;
+    --table-hover: rgba(255, 255, 255, 0.05);
+    --footer-bg: #1a1a1a;
+    --footer-text: #adb5bd;
+    --input-bg: #2d2d2d;
+    --input-border: #3d3d3d;
+    --input-text: #e9ecef;
+    --button-text: #ffffff;
+    --code-bg: #2d2d2d;
+    --code-text: #e9ecef;
+    --tooltip-bg: #2d2d2d;
+    --tooltip-text: #e9ecef;
+}
+
+/* Theme Transition */
+* {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Theme Switcher Styles */
+.theme-switcher {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.theme-toggle {
+    background: transparent;
+    border: 1px solid var(--border-color);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: var(--text-color);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.theme-toggle:hover {
+    background-color: var(--hover-bg);
+    transform: scale(1.05);
+}
+
+.theme-toggle:active {
+    transform: scale(0.95);
+}
+
+/* Show/hide icons based on current theme */
+[data-theme="dark"] .theme-toggle .fa-sun {
+    display: block;
+}
+
+[data-theme="dark"] .theme-toggle .fa-moon {
+    display: none;
+}
+
+[data-theme="light"] .theme-toggle .fa-sun {
+    display: none;
+}
+
+[data-theme="light"] .theme-toggle .fa-moon {
+    display: block;
+}
+
+/* Bootstrap Overrides */
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: var(--button-text);
+}
+
+.btn-secondary {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    color: var(--button-text);
+}
+
+.btn-danger {
+    background-color: var(--danger-color);
+    border-color: var(--danger-color);
+    color: var(--button-text);
+}
+
+.btn-success {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+    color: var(--button-text);
+}
+
+.btn-outline-primary {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-outline-primary:hover {
+    background-color: var(--primary-color);
+    color: var(--button-text);
+}
+
+.card {
+    background-color: var(--card-bg);
+    border-color: var(--border-color);
+    box-shadow: var(--shadow);
+}
+
+.card-header {
+    background-color: var(--card-header-bg);
+    border-bottom-color: var(--border-color);
+    color: var(--text-color);
+}
+
+.form-control {
+    background-color: var(--input-bg);
+    border-color: var(--input-border);
+    color: var(--input-text);
+}
+
+.form-control:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 0.25rem rgba(var(--primary-color-rgb), 0.25);
+}
+
+.text-primary {
+    color: var(--primary-color) !important;
+}
+
+.text-secondary {
+    color: var(--text-secondary) !important;
+}
+
+.text-success {
+    color: var(--success-color) !important;
+}
+
+.text-danger {
+    color: var(--danger-color) !important;
+}
+
+.bg-dark {
+    background-color: var(--navbar-bg) !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: var(--navbar-text);
+}
+
+/* Common Elements */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--secondary-color);
+    text-decoration: underline;
+}
+
+/* Utility Classes */
+.positive {
+    color: var(--positive-color) !important;
+}
+
+.negative {
+    color: var(--negative-color) !important;
+}
+
+.neutral {
+    color: var(--neutral-color) !important;
+}

@@ -1,0 +1,1054 @@
+{
+    "overall": {
+        "sentiment": 65.05924166666667,
+        "social_sentiment": 51.75025000000001,
+        "news_sentiment": 76.66833333333334,
+        "fear_greed_index": 56,
+        "timestamp": "2025-05-01 03:37:10"
+    },
+    "crypto_specific": {
+        "DOGE": {
+            "sentiment_scores": [
+                72.02,
+                28.925,
+                56.400000000000006
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Dogecoin Price To $10? Why The 21Shares ETF Filing Could Signal Good Things To Come",
+                    "sentiment": 72.02
+                },
+                {
+                    "type": "news",
+                    "title": "Dogecoin Price Closes April In The Green, Historical Data Shows What To Expect In May",
+                    "sentiment": 28.925
+                },
+                {
+                    "type": "news",
+                    "title": "Dogecoin & Other Memecoins See Spike In Social Media Attention\u2014Sign Of Greed?",
+                    "sentiment": 56.400000000000006
+                }
+            ]
+        },
+        "FIL": {
+            "sentiment_scores": [
+                72.02,
+                78.595
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Dogecoin Price To $10? Why The 21Shares ETF Filing Could Signal Good Things To Come",
+                    "sentiment": 72.02
+                },
+                {
+                    "type": "reddit",
+                    "title": "The World's Largest Asset Manager (BlackRock) Files To Tokenize $150B Money Market Fund Shares",
+                    "sentiment": 78.595
+                }
+            ]
+        },
+        "BTC": {
+            "sentiment_scores": [
+                72.94,
+                50.0,
+                69.08999999999999,
+                94.035,
+                81.245,
+                56.400000000000006,
+                82.985,
+                90.88000000000001,
+                50.0,
+                36.34,
+                50.0,
+                50.0,
+                50.0,
+                50.0,
+                61.315,
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Bitcoin Whales Hedge Their Bets As Short Interest In BTC Spikes \u2013 What Does This Mean For Price?",
+                    "sentiment": 72.94
+                },
+                {
+                    "type": "news",
+                    "title": "Bitcoin Becomes New \u2018Space Race\u2019 Between Nations, Says White House",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Crypto Privacy Victory: Court Prohibits US Treasury From Reinstating Tornado Cash Sanctions",
+                    "sentiment": 69.08999999999999
+                },
+                {
+                    "type": "news",
+                    "title": "$500 in Daily Prizes Just Launched on this Crypto Mystery Box Site",
+                    "sentiment": 94.035
+                },
+                {
+                    "type": "news",
+                    "title": "The Trump Crypto Wallet Pivot Could Trigger a Web3 Boom: Be Ready with Best Wallet Token",
+                    "sentiment": 81.245
+                },
+                {
+                    "type": "news",
+                    "title": "Dogecoin & Other Memecoins See Spike In Social Media Attention\u2014Sign Of Greed?",
+                    "sentiment": 56.400000000000006
+                },
+                {
+                    "type": "news",
+                    "title": "South Korea\u2019s Ruling Party Proposes Spot Crypto ETF Trading and Banking Reform",
+                    "sentiment": 82.985
+                },
+                {
+                    "type": "news",
+                    "title": "Fresh Wave Of New Money Flows Into Bitcoin After Market Cooldown \u2013 Can Bulls Take Over?",
+                    "sentiment": 90.88000000000001
+                },
+                {
+                    "type": "reddit",
+                    "title": "Trump\u2019s first 100 days in office erase over 20,000 Bitcoin millionaires",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "ZachXBT says $330 million bitcoin theft victim is an 'elderly' person in US",
+                    "sentiment": 36.34
+                },
+                {
+                    "type": "reddit",
+                    "title": "$4 Billion in 2 Weeks: Bitcoin Whales Go on Massive Accumulation Spree",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "Bitcoin breaks through $95k amidst ongoing rally",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "El Salvador keeps buying Bitcoin despite $1.4B IMF deal",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "\u201cIt\u2019s Time To Go Long Everything\u201d: Arthur Hayes Predicts Bitcoin Mega Pump To $1 Million By 2028",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "Public Company Semler Scientific Buys Another 165 Bitcoin (BTC) Worth $15.7 Million",
+                    "sentiment": 61.315
+                },
+                {
+                    "type": "reddit",
+                    "title": "Cardano ADA Lace Wallet Goes Cross-Chain & Integrates Bitcoin Blockchain",
+                    "sentiment": 50.0
+                }
+            ]
+        },
+        "LTC": {
+            "sentiment_scores": [
+                35.199999999999996
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "New Crypto to Explode as Litecoin Eyes Breakout",
+                    "sentiment": 35.199999999999996
+                }
+            ]
+        },
+        "ETH": {
+            "sentiment_scores": [
+                47.42,
+                82.43
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Is A $2,000 Ethereum Rally Imminent? Market Trends Hint At Possible Breakout",
+                    "sentiment": 47.42
+                },
+                {
+                    "type": "news",
+                    "title": "Tether Flexes Strength With Nearly 8-Ton Gold Reserve For XAUT Token",
+                    "sentiment": 82.43
+                }
+            ]
+        },
+        "XRP": {
+            "sentiment_scores": [
+                50.0,
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Hold The Hype\u2014XRP ETF Not Arriving April 30, Analyst Says",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "Ripple offers $4-$5B to buy Circle, but gets rebuffed",
+                    "sentiment": 50.0
+                }
+            ]
+        },
+        "ADA": {
+            "sentiment_scores": [
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "reddit",
+                    "title": "Cardano ADA Lace Wallet Goes Cross-Chain & Integrates Bitcoin Blockchain",
+                    "sentiment": 50.0
+                }
+            ]
+        }
+    },
+    "sources": [
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Dogecoin Price To $10? Why The 21Shares ETF Filing Could Signal Good Things To Come",
+            "text": "",
+            "url": "https://bitcoinist.com/dogecoin-price-to-10-2/",
+            "timestamp": "2025-05-01 03:33:20",
+            "sentiment": 72.02,
+            "mentioned_cryptos": [
+                "DOGE",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Bitcoin Whales Hedge Their Bets As Short Interest In BTC Spikes \u2013 What Does This Mean For Price?",
+            "text": "",
+            "url": "https://bitcoinist.com/bitcoin-whale-short-interest/",
+            "timestamp": "2025-05-01 03:33:20",
+            "sentiment": 72.94,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Bitcoin Becomes New \u2018Space Race\u2019 Between Nations, Says White House",
+            "text": "",
+            "url": "https://bitcoinist.com/bitcoin-space-race-nations-white-house/",
+            "timestamp": "2025-05-01 03:33:20",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Dogecoin Price Closes April In The Green, Historical Data Shows What To Expect In May",
+            "text": "The Dogecoin price saw a much-needed rebound in the month of April after three months of agony for investors as...",
+            "url": "https://bitcoinist.com/dogecoin-price-closes-april/",
+            "timestamp": "2025-05-01 03:33:20",
+            "sentiment": 28.925,
+            "mentioned_cryptos": [
+                "DOGE"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Crypto Privacy Victory: Court Prohibits US Treasury From Reinstating Tornado Cash Sanctions",
+            "text": "A US Federal court has ruled that the Department of the Treasury is barred from reinstating its sanctions against crypto...",
+            "url": "https://bitcoinist.com/crypto-privacy-victory-court-prohibits-us-treasury-from-reinstating-tornado-cash-sanctions/",
+            "timestamp": "2025-05-01 03:33:21",
+            "sentiment": 69.08999999999999,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "$500 in Daily Prizes Just Launched on this Crypto Mystery Box Site",
+            "text": "Jemlit, a mystery box site is set to reward users with $500 in prizes \u2013 every single day. The leading...",
+            "url": "https://bitcoinist.com/500-in-daily-prizes-on-this-crypto-mystery-box-site/",
+            "timestamp": "2025-05-01 03:33:21",
+            "sentiment": 94.035,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "New Crypto to Explode as Litecoin Eyes Breakout",
+            "text": "Litecoin ($LTC) is making waves again \u2013 and no, this isn't another halving hype. This time, it\u2019s technical. The coin...",
+            "url": "https://bitcoinist.com/new-crypto-to-explode-as-litecoin-eyes-breakout/",
+            "timestamp": "2025-05-01 03:33:21",
+            "sentiment": 35.199999999999996,
+            "mentioned_cryptos": [
+                "LTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "The Trump Crypto Wallet Pivot Could Trigger a Web3 Boom: Be Ready with Best Wallet Token",
+            "text": "Crypto president \u2013 of the entire world? Perhaps we all underestimated how much Donald Trump wants to dominate crypto. Even...",
+            "url": "https://bitcoinist.com/trump-crypto-wallet-launching-best-wallet-better-alternative/",
+            "timestamp": "2025-05-01 03:33:21",
+            "sentiment": 81.245,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Is A $2,000 Ethereum Rally Imminent? Market Trends Hint At Possible Breakout",
+            "text": "After months of downward pressure, Ethereum (ETH) may finally be poised for its next major move upward. The second-largest cryptocurrency...",
+            "url": "https://bitcoinist.com/is-a-2000-ethereum-rally-imminent-market-trends-hint-at-possible-breakout/",
+            "timestamp": "2025-05-01 03:33:21",
+            "sentiment": 47.42,
+            "mentioned_cryptos": [
+                "ETH"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Dogecoin & Other Memecoins See Spike In Social Media Attention\u2014Sign Of Greed?",
+            "text": "Data shows social media attention has recently been shifting from Bitcoin and other major assets to meme-based tokens like Dogecoin....",
+            "url": "https://bitcoinist.com/dogecoin-other-memecoins-spike-social-media-greed/",
+            "timestamp": "2025-05-01 03:33:21",
+            "sentiment": 56.400000000000006,
+            "mentioned_cryptos": [
+                "BTC",
+                "DOGE"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Hold The Hype\u2014XRP ETF Not Arriving April 30, Analyst Says",
+            "text": "Cryptocurrency investors scratched their heads last week after unsubstantiated rumors went around ProShares launching XRP ETFs on April 30. Bloomberg...",
+            "url": "https://bitcoinist.com/hold-the-hype-xrp-etf-not-arriving-april-30-analyst-says/",
+            "timestamp": "2025-05-01 03:33:21",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "XRP"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "South Korea\u2019s Ruling Party Proposes Spot Crypto ETF Trading and Banking Reform",
+            "text": "As South Korea heads into its upcoming presidential election scheduled for June 3, the People Power Party (PPP) has introduced...",
+            "url": "https://bitcoinist.com/south-koreas-ruling-party-proposes-spot-crypto-etf/",
+            "timestamp": "2025-05-01 03:33:21",
+            "sentiment": 82.985,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Auhinnam\u00e4ng Eestis \u2013 Aga kas oled proovinud Jemlit \u00fcllatuskaste?",
+            "text": "Auhinnam\u00e4ng on Eestis aasta-aastalt aina populaarsemad \u2013 auhinnam\u00e4ngud on korrraldatud nii suurettev\u00f5ttete kui v\u00e4iksemate br\u00e4ndide poolt, lubades osalejatele p\u00f5nevaid kingitusi....",
+            "url": "https://bitcoinist.com/auhinnamang-ee/",
+            "timestamp": "2025-05-01 03:33:21",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Tether Flexes Strength With Nearly 8-Ton Gold Reserve For XAUT Token",
+            "text": "Tether's gold-backed token XAUT has increased significantly during the first quarter of 2025, the company's official attestation published on April...",
+            "url": "https://bitcoinist.com/tether-flexes-strength-with-nearly-8-ton-gold-reserve-for-xaut/",
+            "timestamp": "2025-05-01 03:33:21",
+            "sentiment": 82.43,
+            "mentioned_cryptos": [
+                "ETH"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Fresh Wave Of New Money Flows Into Bitcoin After Market Cooldown \u2013 Can Bulls Take Over?",
+            "text": "Bitcoin has gained over 28% in value since its April 7th low, marking a strong recovery that has shifted market...",
+            "url": "https://bitcoinist.com/fresh-wave-of-new-money-flows-into-bitcoin-after-market-cooldown-can-bulls-take-over/",
+            "timestamp": "2025-05-01 03:33:21",
+            "sentiment": 90.88000000000001,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bloomberg Intelligence boosts Solana ETF approval odds to 90%",
+            "text": "Bloomberg Intelligence has boosted its estimated odds of US regulators approving a Solana exchange-traded fund (ETF) in 2025 to 90%, according to an April 30 post on the X platform.\u00a0The company also s...",
+            "url": "https://cointelegraph.com/news/bloomberg-boosts-solana-etf-approval-odds-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 99.69,
+            "mentioned_cryptos": [
+                "SOL",
+                "XRP",
+                "DOGE",
+                "DOT",
+                "LTC",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Coinbase files brief with US Supreme Court in support of taxpayers&#039; privacy",
+            "text": "US-based cryptocurrency exchange Coinbase has filed an amicus brief in the country\u2019s Supreme Court in support of a taxpayer fighting the Internal Revenue Service (IRS) gaining access to his data from ...",
+            "url": "https://cointelegraph.com/news/coinbase-amicus-irs-user-data-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 98.735,
+            "mentioned_cryptos": [
+                "ETH",
+                "XRP",
+                "UNI",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Stablecoins on track for $2T market cap by 2028 \u2014 US Treasury",
+            "text": "US Dollar-pegged stablecoins are on track to reach an aggregate market capitalization of approximately $2 trillion by 2028, according to the United States Department of the Treasury\u2019s Q1 2025 report. ...",
+            "url": "https://cointelegraph.com/news/stablecoins-on-track-for-2-t-market-cap-by-2028-us-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 99.76499999999999,
+            "mentioned_cryptos": [
+                "ETH",
+                "SOL",
+                "DOT",
+                "LINK",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "3 Ethereum charts flash signal last seen in 2017 when ETH price rallied 25,000%",
+            "text": "Key takeaways:Ether price printed a rare monthly Dragonfly doji candlestick, which is often seen before major ETH bull market cycles.ETH is retesting its long-term parabolic support zone that preceded...",
+            "url": "https://cointelegraph.com/news/3-ethereum-charts-flash-signal-last-seen-in-2017-when-eth-price-rallied-25-000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 93.685,
+            "mentioned_cryptos": [
+                "ETH"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "CZ aims to teach 1 billion kids through Giggle Academy \u2014 Token2049",
+            "text": "Binance co-founder Changpeng \u201cCZ\u201d Zhao wants to provide free education for up to a billion children worldwide with his Giggle Academy venture, he told an audience at Token2049 in Dubai, United Arab Em...",
+            "url": "https://cointelegraph.com/news/cz-wants-teach-1-billion-kids-giggle-academy-token2049?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 99.42999999999999,
+            "mentioned_cryptos": [
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bitcoin \u2018aging\u2019 chart projects sixfold BTC price rally above $350K",
+            "text": "Key takeaways:Bitcoin\u2019s price increased by sixfold each time its age increased by 40%.If the pattern holds, Bitcoin could rally to $351,046 in 2025.New data highlights a historical pattern that result...",
+            "url": "https://cointelegraph.com/news/bitcoin-aging-chart-projects-sixfold-btc-price-rally-above-350-k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 99.055,
+            "mentioned_cryptos": [
+                "BTC",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Tether plans US stablecoin launch as soon as this year \u2014 Report",
+            "text": "Tether plans to launch a stablecoin product in the United States as soon as this year, the stablecoin issuer\u2019s CEO, Paul Ardoino, said in an April 30 CNBC interview. Tether\u2019s flagship stablecoin, USDT...",
+            "url": "https://cointelegraph.com/news/tether-plans-us-stablecoin-launch-as-soon-as-this-year-cnbc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 99.505,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "VC Roundup: Funding surge targets confidentiality, tokenization and Web3 infrastructure",
+            "text": "After months of volatility and extreme fear, crypto markets turned a positive corner in the second half of April, highlighting the industry\u2019s big sentiment shift.\u00a0For venture capital, it was business ...",
+            "url": "https://cointelegraph.com/news/vc-roundup-funding-surge-targets-confidentiality-tokenization-web3-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 99.36,
+            "mentioned_cryptos": [
+                "ETH",
+                "SOL",
+                "UNI",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Ethereum Pectra upgrade goes live next week \u2014 Will ETH price rally?",
+            "text": "Key takeaways:ETH price has underperformed its peers during the current bull market, but gas sponsorship could lure developers and traders back to the network.Ethereum\u2019s upcoming Pectra upgrade promis...",
+            "url": "https://cointelegraph.com/news/ethereum-pectra-upgrade-goes-live-next-week-will-eth-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 99.86500000000001,
+            "mentioned_cryptos": [
+                "ETH",
+                "BNB",
+                "SOL",
+                "LTC",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Ripple $4B-$5B bid to purchase Circle rejected \u2014 Report",
+            "text": "Blockchain payments firm Ripple has reportedly bid up to $5 billion in an effort to acquire stablecoin issuer Circle, but the offer was rejected.According to an April 30 Bloomberg report, Ripple put i...",
+            "url": "https://cointelegraph.com/news/ripple-circle-bid-rejected-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 52.580000000000005,
+            "mentioned_cryptos": [
+                "ETH",
+                "XRP",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Price predictions 4/30: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI, LINK, AVAX",
+            "text": "Key points:Bitcoin\u2019s 7-day volatility is the lowest in 563 days, signaling an impending range expansion.Bitcoin\u2019s breakout above $95,000 could swiftly take it to $100,000 and above.Although the probab...",
+            "url": "https://cointelegraph.com/news/price-predictions-4-30-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 99.76499999999999,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "BNB",
+                "SOL",
+                "XRP",
+                "ADA",
+                "DOGE",
+                "AVAX",
+                "LTC",
+                "LINK",
+                "VET"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Global demand grows for non-dollar stablecoins, says Fireblocks exec",
+            "text": "Governments outside the US, including Singapore, are increasingly interested in stablecoins not tied to the US dollar, despite their currently limited liquidity, Fireblocks director of policy Dea Mark...",
+            "url": "https://cointelegraph.com/news/global-demand-grows-non-dollar-stablecoins-fireblocks-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 99.325,
+            "mentioned_cryptos": [
+                "ETH",
+                "ADA",
+                "LINK",
+                "UNI",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bitcoin selling at $95K is \u2018profit-taking pressure test\u2019 but BTC whales are still buying",
+            "text": "Key Takeaways:US GDP shrank -0.3% in Q1, far below +0.3% forecasts, sparking recession fears.Bitcoin faces selling pressure with its spot volume delta dropping $300 million in 3 days.Whales are accumu...",
+            "url": "https://cointelegraph.com/news/bitcoin-selling-at-95-k-is-profit-taking-pressure-test-but-btc-whales-are-still-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 1.419999999999999,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Ex-Binance CEO chides Europe over crypto adoption",
+            "text": "Changpeng \u201cCZ\u201d Zhao, the former CEO of crypto exchange Binance, said most European countries were moving \u201cnowhere\u201d in terms of the adoption of digital currencies.Speaking at the Token2049 conference i...",
+            "url": "https://cointelegraph.com/news/changpeng-zhao-europe-over-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 95.12,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Grayscale launches Bitcoin adopters exchange-traded fund",
+            "text": "Asset manager Grayscale launched the Grayscale Bitcoin Adopters exchange-traded fund (ETF), an investment vehicle that tracks companies employing a Bitcoin (BTC) treasury, or holding strategy.Accordin...",
+            "url": "https://cointelegraph.com/news/grayscale-launches-grayscale-bitcoin-adopters-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 03:33:25",
+            "sentiment": 99.18,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "ADA"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Moon Week 61",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kbha3b/moon_week_61/",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Daily Crypto Discussion - April 30, 2025 (GMT+0)",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kb2vrp/daily_crypto_discussion_april_30_2025_gmt0/",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Trump\u2019s first 100 days in office erase over 20,000 Bitcoin millionaires",
+            "text": "",
+            "url": "https://finbold.com/trumps-first-100-days-in-office-erase-over-20000-bitcoin-millionaires/",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "When rich chocolatey, delicious Drumstick enters the SNACKDOWN!, sub-par spud-scraps are getting dropped. Shop Now and SNACKDOWN!",
+            "text": "",
+            "url": "https://alb.reddit.com/cr?za=6_pub3qRaK1QvLAR7KYCkylRgNUAwv8LO-Rs9pOyDM7SVb2pnMr97qYy82AUTeu7QHQX3C6W3H5jF0qn9kqHe_cRrqAnWH-EorPIzdNfF34uF0yGjyPPMTFN3Sd47Uh6BJc9ZG1Rzf45aaRl3ufOmCMH7s3_MlFJjbfXUzSH9ZZUklNcVYTrjV3hNoK0882kKTznFhqLnYMwF1ifyi_8535NzzkPVs0gXZtVADtekZF4RlKxPUB2ZxxfCluJ7RBRBmhk87f1_P_O2bQ5yLhbCRy7QQR2oFWUBrztJPn6VA-Y9i5myTW5X1PBQq0V-yTSKnXRJrV-5nfzLhMMroM2sy_QiCC7WDl8I7L90BGwpZaVIB2xelJf9XUZIqfKLAbwRa3Kb2cJmNh0MQNv1Dt4M3d0LAMQtleVueiBivMuz0MpVHIx8U1hclCgOkIljU2mDuNfEg8FCvUesfMxHDUO885X1e3hi90y-Sd7mhliFq0Rh_o_9b0kEIvnPxlg5xFsOpyhNd22G7SHo1D4UDLMhjfWDNylusgT-kocrQ3GJZ33T5zNN0oi9fUO2YUF&zp=I-mdek-ZGHBmYsgKe77ce2qtvz_LtWNFKpvIha6MDIP5WE41-UOC-zdm-HytO4quBUUvW1RDnxeVpIuGUNNR0klMntQF4PTFCNrnhnJqebYaN8rXaOeqri-QhXa1t8O2ik-dn9MxMO0hlAs66_0FlmNi57WtwfjWv2LQiNZ0s7t_vk9gN0nEVFVMpwItA66x9_30-pRuIK11fgwan1jYt2JeKt6Fyi9gAXKEFQ45kOhFVrZPY98rJmd0kWJs4E9xhjwBIahH4vEoPb-Q8yi0vNPV3j-CT4TS7ZqtRk1YMj7FpRiug_FZXuuipaEMNexEZEC1oxI5VoTvJdk67VCoRPudPuz9w_hAgPAm1nleSG32dhy9_YSLGcawGkoa_XKnRDn3knGjQnRXLzVBxSttx8KtWx2TnI_kZXN-WCybncMu39tsxS9HK-6vxhSVunE6MXM8BtqdVTuh1u5pdbiGnKaLQW7Ni4MtxqNTGq6E-aD9WoUAu5A5LPCB4kJ7UCzeQvSCOxd_vfyqQBQcnNU15XxbJtW4PNaTA7auTMH3BM8DzvKrHl9k8pwwNqD01r86V93iTz5_25ZhRSbDEe97ZcgwZ8FkwXq0TbsdaHMzEHsgdZKMWkgA3sDrYMlkeuwQafticXQKkb-XgDsUcT6NX3kWwZFd",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 91.76500000000001,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "It's all about how you HODL",
+            "text": "",
+            "url": "https://i.redd.it/orz7aygoozxe1.png",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "ZachXBT says $330 million bitcoin theft victim is an 'elderly' person in US",
+            "text": "",
+            "url": "https://www.theblock.co/post/352572/zachxbt-says-330-million-bitcoin-theft-victim-is-an-elderly-person-in-us?utm_source=rss&utm_medium=rss",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 36.34,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "53% of cryptos launched since 2021 have failed, 2024 and 2025 claimed the most victims",
+            "text": "",
+            "url": "https://www.cryptopolitan.com/failed-cryptos-launch-since-2021-2024-2025/",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 17.049999999999997,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "$4 Billion in 2 Weeks: Bitcoin Whales Go on Massive Accumulation Spree",
+            "text": "",
+            "url": "https://cryptopotato.com/4-billion-in-2-weeks-bitcoin-whales-go-on-massive-accumulation-spree/",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Bitcoin breaks through $95k amidst ongoing rally",
+            "text": "",
+            "url": "https://crypto.news/bitcoin-breaks-through-95k-amidst-ongoing-rally/",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Full Send - Why the Crypto Bull Market is About to Reignite.",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kbid2i/full_send_why_the_crypto_bull_market_is_about_to/",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "El Salvador keeps buying Bitcoin despite $1.4B IMF deal",
+            "text": "",
+            "url": "https://crypto.news/el-salvador-keeps-buying-bitcoin-despite-1-4b-imf-deal/",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Ripple offers $4-$5B to buy Circle, but gets rebuffed",
+            "text": "",
+            "url": "https://www.thestreet.com/crypto/markets/ripple-reportedly-tried-to-buy-stablecoin-issuer-circle",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "XRP"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "\u201cIt\u2019s Time To Go Long Everything\u201d: Arthur Hayes Predicts Bitcoin Mega Pump To $1 Million By 2028",
+            "text": "",
+            "url": "https://zycrypto.com/its-time-to-go-long-everything-arthur-hayes-predicts-bitcoin-mega-pump-to-1-million-by-2028/",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Cetaphil Hydrating Foaming Cream Cleanser, removes 97% pollution micro-particles and hydrates the skin as well. Fight Pollution. The Gentle Way!",
+            "text": "",
+            "url": "https://alb.reddit.com/cr?za=a2F80Sa_gCEkwMZWU7YZvaNu98cXQLSCF0lzEHj-QCR5PWAZBAf--8LFZDneF7DezDoKcMdonOD0Ee14_Ch3zUFOaeVP8MzxvDTC4NNu2CgZs128ZjZDAiWKz-IQf4198qg2pqnQPD0b_yhtmb1x_-uyJdHV7T2PzWGytKqEz5xmKh0yyFaxZkI-bMuYITtVlzpeFtdqQqJMHsEi0wGdfdxNQrg4fhJlDrCzOSwJvR3B-TDNfFArtHyKvV3wAz3VsSGDc5wgv4jCTkYrbcMewEnlb6PeVR_cnI5aWqWnVu3roxjwfhSguLtrAhBcze3oB9LUydivXun1D_uXH96ZlZ-3azDNiU4tlVmqY50SNUM5c0Zx9cigDlFU55f6HRKV9XB5gYxX-5jhg-P6_lMBEM8jIsWGIFOfLLQZXABtB-1J_ddsJObldMBTv6DvsM_VDi69u3c5Ow74YAzyGXtnClHFT1zs3rDba5SOxFuk7TCgHXGjQqVNN09WCS43YO2Vu9GTKpsWbnFnsWE4ZOkSBvypIMo4LbIeaCEUv71PEVH89g8et9ajwy_kaMpidrZ9rjXL&zp=mbY3tFjUGG_4YLh8Sagl5r41DlDlNQ2o9eylXJct1VOVZlxMD7OIFD1T8wMdFgjEUAsgR7V8zQ9m7Ijd1C-8vtkbbdxYfnbwJflPhTP-33NLE3Rl5Eqg-RV6-ULlzPQXc9xHZhMc8QxIsG26-f9ne6iMCHKT6gVegq5_9cADwvoa4Hr9FiNpBAEMwjl29OFiR8GDNgpTkoLYxliv_WvfrcBf4ztDmFo4rfoqSZagydtZQRHUxAYCgmPSdSzWIu1WF-c4x6hVejxspBYYGHbHU7x1P1bACqFh5I85MdIBZWBdgYMRpdozXaRxk39Z3P0DgnTqT3sxZEZf1ilSyFMh_DKDrqgul0bDHBefbL0pNDghQVFFi7Tfm0RRG81_yXKYz02H789hWp1qhA07ED7oCzQ64XeUU7swEXPgMd44YMuu0pUaqkdOkWTbtlQdf1SnfP_8Q7LCrq1r2egg1w8OXgT9lk99xi7N0MdY1J9EeHsr-GzQ8DewasHLI_8mqlPNz0urzg",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 70.015,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Prosecutors Seek Up To 20 Years In Prison For Celsius Founder Alex Mashinsky",
+            "text": "",
+            "url": "https://zycrypto.com/prosecutors-seek-up-to-20-years-in-prison-for-celsius-founder-alex-mashinsky/",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 24.47,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Public Company Semler Scientific Buys Another 165 Bitcoin (BTC) Worth $15.7 Million",
+            "text": "",
+            "url": "https://www.reddit.com/gallery/1kbmd51",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 61.315,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Who did this, please stop \ud83d\ude06...",
+            "text": "",
+            "url": "https://i.redd.it/5vqa9qnegsxe1.jpeg",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 55.455,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "The World's Largest Asset Manager (BlackRock) Files To Tokenize $150B Money Market Fund Shares",
+            "text": "",
+            "url": "https://i.redd.it/5vd0oriywwxe1.jpeg",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 78.595,
+            "mentioned_cryptos": [
+                "FIL"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Cardano ADA Lace Wallet Goes Cross-Chain & Integrates Bitcoin Blockchain",
+            "text": "",
+            "url": "https://allincrypto.com/cardano-ada-lace-wallet-goes-cross-chain-bitcoin-blockchain/",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC",
+                "ADA"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Binance founder CZ wants crypto-AI agents to have real utility as 99.99% of their tokens are \u2018useless\u2019",
+            "text": "",
+            "url": "https://www.theblock.co/post/352524/binance-founder-cz-wants-crypto-ai-agents-to-have-real-utility-as-99-99-of-their-tokens-are-useless",
+            "timestamp": "2025-05-01 03:33:31",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@coinbase",
+            "title": "Coinbase",
+            "text": "Coinbase is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/coinbase/status/17460506560",
+            "timestamp": "2025-05-01 03:34:16",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@coinbase",
+            "title": "Coinbase",
+            "text": "Coinbase is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/coinbase/status/17460506561",
+            "timestamp": "2025-05-01 03:34:16",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@coinbase",
+            "title": "Coinbase",
+            "text": "Coinbase is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/coinbase/status/17460506562",
+            "timestamp": "2025-05-01 03:34:16",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@coinbase",
+            "title": "Coinbase",
+            "text": "Coinbase is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/coinbase/status/17460506563",
+            "timestamp": "2025-05-01 03:34:16",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@coinbase",
+            "title": "Coinbase",
+            "text": "Coinbase is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/coinbase/status/17460506564",
+            "timestamp": "2025-05-01 03:34:16",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@coinbase",
+            "title": "Coinbase",
+            "text": "Coinbase is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/coinbase/status/17460506565",
+            "timestamp": "2025-05-01 03:34:16",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@coinbase",
+            "title": "Coinbase",
+            "text": "Coinbase is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/coinbase/status/17460506566",
+            "timestamp": "2025-05-01 03:34:16",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@coinbase",
+            "title": "Coinbase",
+            "text": "Coinbase is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/coinbase/status/17460506567",
+            "timestamp": "2025-05-01 03:34:16",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@binance",
+            "title": "Binance",
+            "text": "Binance is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/binance/status/17460506720",
+            "timestamp": "2025-05-01 03:34:32",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@binance",
+            "title": "Binance",
+            "text": "Binance is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/binance/status/17460506721",
+            "timestamp": "2025-05-01 03:34:32",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@binance",
+            "title": "Binance",
+            "text": "Binance is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/binance/status/17460506722",
+            "timestamp": "2025-05-01 03:34:32",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@binance",
+            "title": "Binance",
+            "text": "Binance is committed to providing the best trading experience. New features coming soon! #crypto #trading",
+            "url": "https://x.com/binance/status/17460506723",
+            "timestamp": "2025-05-01 03:34:32",
+            "original_source": true,
+            "sentiment": 88.22,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@SatoshiLite",
+            "title": "Charlie Lee",
+            "text": "Working on some exciting new developments for the blockchain ecosystem. The future of decentralized finance is bright! #blockchain #development",
+            "url": "https://x.com/SatoshiLite/status/17460508220",
+            "timestamp": "2025-05-01 03:37:02",
+            "original_source": true,
+            "sentiment": 87.5,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@SatoshiLite",
+            "title": "Charlie Lee",
+            "text": "Working on some exciting new developments for the blockchain ecosystem. The future of decentralized finance is bright! #blockchain #development",
+            "url": "https://x.com/SatoshiLite/status/17460508221",
+            "timestamp": "2025-05-01 03:37:02",
+            "original_source": true,
+            "sentiment": 87.5,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@Cointelegraph",
+            "title": "Cointelegraph",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/Cointelegraph/status/17460508300",
+            "timestamp": "2025-05-01 03:37:10",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        }
+    ],
+    "rankings": {
+        "positive": [
+            {
+                "symbol": "FIL",
+                "name": "Filecoin",
+                "score": 75.3075,
+                "change": 0,
+                "sources_count": 2
+            },
+            {
+                "symbol": "ETH",
+                "name": "Ethereum",
+                "score": 64.92500000000001,
+                "change": 0,
+                "sources_count": 2
+            },
+            {
+                "symbol": "BTC",
+                "name": "Bitcoin",
+                "score": 62.201875,
+                "change": 0,
+                "sources_count": 16
+            },
+            {
+                "symbol": "DOGE",
+                "name": "Dogecoin",
+                "score": 52.44833333333333,
+                "change": 0,
+                "sources_count": 3
+            },
+            {
+                "symbol": "XRP",
+                "name": "Ripple",
+                "score": 50.0,
+                "change": 0,
+                "sources_count": 2
+            }
+        ],
+        "negative": [
+            {
+                "symbol": "LTC",
+                "name": "Litecoin",
+                "score": 35.199999999999996,
+                "change": 0,
+                "sources_count": 1
+            }
+        ]
+    }
+}

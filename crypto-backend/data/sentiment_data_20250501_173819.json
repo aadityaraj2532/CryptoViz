@@ -1,0 +1,808 @@
+{
+    "overall": {
+        "sentiment": 63.035125,
+        "social_sentiment": 48.20125,
+        "news_sentiment": 75.9495,
+        "fear_greed_index": 53,
+        "timestamp": "2025-05-01 17:38:18"
+    },
+    "crypto_specific": {
+        "BTC": {
+            "sentiment_scores": [
+                50.0,
+                50.0,
+                50.0,
+                36.34,
+                27.060000000000002,
+                50.0,
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "reddit",
+                    "title": "Trump\u2019s first 100 days in office erase over 20,000 Bitcoin millionaires",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "The $800M Bitcoin in a landfill is getting the docuseries treatment",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "The CIA views Bitcoin as a tool they can use for payments",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "ZachXBT says $330 million bitcoin theft victim is an 'elderly' person in US",
+                    "sentiment": 36.34
+                },
+                {
+                    "type": "reddit",
+                    "title": "Bitcoin DeFi will have 300M users, beating Ethereum and Solana: Exec",
+                    "sentiment": 27.060000000000002
+                },
+                {
+                    "type": "reddit",
+                    "title": "Bitcoin breaks through $95k amidst ongoing rally",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "$4 Billion in 2 Weeks: Bitcoin Whales Go on Massive Accumulation Spree",
+                    "sentiment": 50.0
+                }
+            ]
+        },
+        "SOL": {
+            "sentiment_scores": [
+                58.894999999999996,
+                27.060000000000002
+            ],
+            "sources": [
+                {
+                    "type": "reddit",
+                    "title": "Omni Agent Solutions Bittrex",
+                    "sentiment": 58.894999999999996
+                },
+                {
+                    "type": "reddit",
+                    "title": "Bitcoin DeFi will have 300M users, beating Ethereum and Solana: Exec",
+                    "sentiment": 27.060000000000002
+                }
+            ]
+        },
+        "FIL": {
+            "sentiment_scores": [
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "reddit",
+                    "title": "The $800M Bitcoin in a landfill is getting the docuseries treatment",
+                    "sentiment": 50.0
+                }
+            ]
+        },
+        "XRP": {
+            "sentiment_scores": [
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "reddit",
+                    "title": "Ripple offers $4-$5B to buy Circle, but gets rebuffed",
+                    "sentiment": 50.0
+                }
+            ]
+        },
+        "ETH": {
+            "sentiment_scores": [
+                27.060000000000002
+            ],
+            "sources": [
+                {
+                    "type": "reddit",
+                    "title": "Bitcoin DeFi will have 300M users, beating Ethereum and Solana: Exec",
+                    "sentiment": 27.060000000000002
+                }
+            ]
+        }
+    },
+    "sources": [
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Google subpoena scam: What it looks like and how to avoid it",
+            "text": "                 What is a Google subpoena scam?              The Google subpoena scam is a type of phishing attack where fraudsters impersonate Google to create a false sense of urgency and fear.\u00a0Typ...",
+            "url": "https://cointelegraph.com/explained/google-subpoena-scam-what-it-looks-like-and-how-to-avoid-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 0.10499999999999954,
+            "mentioned_cryptos": [
+                "ETH",
+                "LINK",
+                "UNI",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Morgan Stanley eyes crypto rollout for E*Trade platform: Bloomberg",
+            "text": "Banking giant Morgan Stanley reportedly plans to list cryptocurrencies on its E*Trade investment brokerage and trading platform.According to a May 1 Bloomberg report, the firm intends to list crypto a...",
+            "url": "https://cointelegraph.com/news/morgan-stanley-etrade-crypto-trading-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.365,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bitcoin price about to \u2018blast\u2019 higher as Fed rate cut odds jump to 60%",
+            "text": "Key takeaways:Bitcoin holds $95,000 as Fed rate cut odds rise to 60% for June 18 and US economy slumps.Breaking $95,000 could push BTC price toward $100,000, while dropping below $93,000 may bring the...",
+            "url": "https://cointelegraph.com/news/bitcoin-price-blast-higher-fed-rate-cut-odds-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 70.095,
+            "mentioned_cryptos": [
+                "BTC",
+                "SOL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "MultiBank, MAG, Mavryk ink world\u2019s largest $3B RWA tokenization deal",
+            "text": "MultiBank Group, the world\u2019s largest financial derivatives institution based in Dubai, has signed a landmark $3 billion real-world asset (RWA) tokenization agreement with United Arab Emirates (UAE)-ba...",
+            "url": "https://cointelegraph.com/news/multibank-mag-mavryk-3b-rwa-tokenization-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.66,
+            "mentioned_cryptos": [
+                "DOT",
+                "UNI",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Eric Trump: USD1 will be used for $2B MGX investment in Binance",
+            "text": "Abu Dhabi-based investment firm MGX will use a stablecoin linked to US President Donald Trump\u2019s family to settle a $2 billion investment in Binance, the world\u2019s largest cryptocurrency exchange.The Wor...",
+            "url": "https://cointelegraph.com/news/eric-trump-usd1-used-2-b-mgx-investment-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 97.975,
+            "mentioned_cryptos": [
+                "ETH",
+                "LINK"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "MEXC launches $300M Web3 fund, commits to \u2018strategic investment\u2019",
+            "text": "Crypto exchange MEXC has announced a $300 million ecosystem development fund aimed at supporting Web3 projects over the next five years.The initiative, unveiled at Token2049 in Dubai, is designed to s...",
+            "url": "https://cointelegraph.com/news/mexc-300m-web3-fund-strategic-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 98.97500000000001,
+            "mentioned_cryptos": [
+                "ETH",
+                "DOT"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bitcoin eyes gains as macro data makes US recession 2025 \u2018base case\u2019",
+            "text": "Key points:Bitcoin traders wait for signals of US economic policy loosening as data forces the Federal Reserve into a corner.Recession is more likely than not, sources say, amid rising unemployment an...",
+            "url": "https://cointelegraph.com/news/bitcoin-gains-macro-data-makes-us-recession-2025-base-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 1.3749999999999984,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SHIB",
+                "LINK"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Restaking can make DeFi more secure for institutional traders",
+            "text": "Opinion by: Amitej Gajjala, co-founder and CEO of Kernel DAOThe restaking narrative has moved fast \u2014 from side conversations in validator circles to the forefront of DeFi infrastructure discussions.It...",
+            "url": "https://cointelegraph.com/news/restaking-can-make-de-fi-more-secure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.49,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SOL",
+                "UNI",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Metaplanet to open US arm, plans to raise $250M for Bitcoin strategy",
+            "text": "Metaplanet \u2014 a Japanese company focused on accumulating Bitcoin \u2014 announced it will launch a United States-based subsidiary.In a May 1 X post, Metaplanet announced that the firm is launching a wholly ...",
+            "url": "https://cointelegraph.com/news/metaplanet-to-open-us-subsidiary-plans-to-raise-250-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.575,
+            "mentioned_cryptos": [
+                "BTC",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Ethena partners with TON to offer USDe to one billion Telegram users",
+            "text": "Decentralized stablecoin platform Ethena has partnered with The Open Network (TON) to make its stablecoins available to Telegram\u2019s user base of over one billion people.The partnership, announced on Ma...",
+            "url": "https://cointelegraph.com/news/ethena-partner-ton-usde-telegram-one-billion-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 98.95,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SOL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Vitalik Buterin\u2019s vision for Ethereum: Pectra, Glamsterdam and beyond",
+            "text": "                 Why do Ethereum upgrades matter?              Ethereum upgrades are essential to scale, secure and evolve the network without compromising its decentralized foundation.Ethereum still ...",
+            "url": "https://cointelegraph.com/explained/vitalik-buterins-vision-for-ethereum-pectra-glamsterdam-and-beyond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.93,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SOL",
+                "ADA",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Multi-wallet usage up 16%, but AI may address crypto fragmentation gap",
+            "text": "Fragmentation and complicated user experience remain two of the most significant obstacles to cryptocurrency\u2019s mainstream adoption, according to a new industry report. Most users now use at least two ...",
+            "url": "https://cointelegraph.com/news/multi-wallet-usage-16-ai-address-crypto-fragmentation-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 96.655,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "\u2018Bad breach of ethics\u2019 \u2014 Musk echoes crypto execs in backlash against WSJ",
+            "text": "Tesla CEO Elon Musk has lashed out at The Wall Street Journal (WSJ), calling the publication\u2019s latest report \u201can EXTREMELY BAD BREACH OF ETHICS,\u201d after it claimed the Tesla board was actively seeking ...",
+            "url": "https://cointelegraph.com/news/musk-joins-crypto-leaders-in-slamming-wsj-over-false-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 26.465,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SOL",
+                "DOGE",
+                "LINK",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Strategy ends April up 32% in best month since November as Q1 earnings loom",
+            "text": "Key takeaways:Strategy\u2019s stock rose 32% in April, its biggest monthly gain since November.Speculation is building that Strategy will announce a major capital raise during its Q1 earnings call on May 1...",
+            "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-stock-price-april-surge-earnings-call?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 97.59,
+            "mentioned_cryptos": [
+                "BTC",
+                "DOT"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Sam Altman\u2019s eye-scanning crypto project World launches in US",
+            "text": "OpenAI CEO Sam Altman\u2019s crypto-tied digital identity project World, formerly Worldcoin, has made its US debut in six cities.\u00a0The project, which aims to verify humans in the age of artificial intellige...",
+            "url": "https://cointelegraph.com/news/sam-altman-eye-scanning-crypto-project-worldcoin-launches-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 18.154999999999998,
+            "mentioned_cryptos": [
+                "BTC",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Crypto losses spike 1,100% in April with 5th-largest-ever hack: CertiK",
+            "text": "Crypto losses spiked by 1,163% over April, with the lion\u2019s share of lost crypto coming from a single heist of an elderly US individual\u2019s wallet, says blockchain security firm CertiK.CertiK said in an ...",
+            "url": "https://cointelegraph.com/news/crypto-losses-spike-1000-percent-april-with-top-5-crypto-hack-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 0.26499999999999857,
+            "mentioned_cryptos": [
+                "BTC",
+                "SOL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bitcoin DeFi will have 300M users, beating Ethereum and Solana: Exec",
+            "text": "The first decentralized finance (DeFi) company to launch a user-friendly suite of products on Bitcoin will \u201cwin the entire market\u201d of the blockchain\u2019s 300 million users, one crypto founder says.Alexei...",
+            "url": "https://cointelegraph.com/news/bitcoin-defi-300-million-users-beating-ethereum-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.825,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SOL",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "North Carolina House passes state crypto investment bill",
+            "text": "North Carolina\u2019s House of Representatives has passed a bill allowing the state\u2019s treasurer to invest public funds in approved cryptocurrencies, which will now head to the Senate.The House passed the D...",
+            "url": "https://cointelegraph.com/news/north-carolina-house-passes-state-crypto-investment-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 98.735,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SOL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Galaxy Digital plans Nasdaq listing as crypto stocks post strong rebound",
+            "text": "Key takeaways:Galaxy Digital plans to begin trading on the Nasdaq on May 16, pending shareholder and Nasdaq approval.Nasdaq-listed crypto firms posted strong gains in April after a period of macroecon...",
+            "url": "https://cointelegraph.com/news/galaxy-digital-nasdaq-listing-looms-crypto-stocks-rebound-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.48,
+            "mentioned_cryptos": [
+                "BTC",
+                "DOT"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "US crypto groups urge SEC for clarity on staking",
+            "text": "Nearly 30 crypto advocate groups led by the lobby group the Crypto Council for Innovation (CCI) have asked the Securities and Exchange Commission for clear regulatory guidance on crypto staking and st...",
+            "url": "https://cointelegraph.com/news/us-crypto-groups-urge-sec-clarity-cryptostaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 98.675,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Crypto token failures soar, with 1 in 4 launched since 2021 dying in Q1: CoinGecko",
+            "text": "About one in four crypto tokens launched since 2021 have failed in the first quarter of this year amid a crypto market downturn and token creation becoming easier than ever, says crypto data platform ...",
+            "url": "https://cointelegraph.com/news/crypto-token-failures-soar-quarter-die-q1-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 0.35499999999999976,
+            "mentioned_cryptos": [
+                "BTC",
+                "SOL",
+                "LINK"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "XRP traders predict new all-time highs as ETF approval odds rise to 85%",
+            "text": "Key takeaways:XRP ETF approval odds rise to 85% following a SEC leadership change.Analysts predict XRP could rise to new all-time highs again in 2025.XRP price dropped by 5% over the past 24 hours as ...",
+            "url": "https://cointelegraph.com/news/xrp-traders-predict-new-all-time-highs-as-etf-approval-odds-rise-to-85?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.795,
+            "mentioned_cryptos": [
+                "SOL",
+                "XRP",
+                "LTC",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Robinhood beats Q1 estimates despite revenue, crypto trading dip",
+            "text": "Trading platform Robinhood has still managed to beat Wall Street estimates as its first-quarter revenues fell and its crypto trading volume cooled from a record high in Q4.Robinhood\u2019s Q1 results share...",
+            "url": "https://cointelegraph.com/news/robinhood-beats-estimates-q1-revenue-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.195,
+            "mentioned_cryptos": [
+                "BTC",
+                "SOL",
+                "XRP"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Solana futures open interest nears all-time high \u2014 Will SOL price follow?",
+            "text": "Key points:Solana held the $140 support level for a week, a first in more than two months, highlighting traders\u2019 growing confidence.SOL futures open interest hit $5.75 billion on April 30, showing str...",
+            "url": "https://cointelegraph.com/news/solana-open-interest-nears-all-time-high-will-sol-price-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.78,
+            "mentioned_cryptos": [
+                "ETH",
+                "SOL",
+                "XRP",
+                "UNI",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Ethereum bulls show interest as traders\u2019 confidence in ETH\u2019s $1.8K level improves",
+            "text": "Key takeaways:Traders remain cautious about ETH\u2019s price action, but optimistic sentiment is beginning to return.The May 7, Ethereum Pectra upgrade could boost investor sentiment, but ETH\u2019s price actio...",
+            "url": "https://cointelegraph.com/news/ethereum-bulls-show-interest-as-traders-confidence-in-eth-s-1-8-k-level-improves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.515,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "BNB",
+                "SOL",
+                "ADA",
+                "LTC",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "\u2018Huge Shift\u2019 in crypto firms\u2019 compliance mindset, says Elliptic co-founder",
+            "text": "The crypto industry has seen a significant shift toward regulatory compliance since its early days, according to James Smith, co-founder of Elliptic, a crypto compliance firm established in 2013.\u201cIn t...",
+            "url": "https://cointelegraph.com/news/huge-shift-crypto-firms-compliance-mindset-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.46,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "\u2018To have freedom of money, you have to have freedom of speech\u2019 \u2014 CZ",
+            "text": "Binance co-founder and former CEO Changpeng \u201cCZ\u201d Zhao took the stage at Token2049 in Dubai, United Arab Emirates (UAE), where he told the audience that his investment in social media platform X was ai...",
+            "url": "https://cointelegraph.com/news/to-have-freedom-money-you-need-free-speech-cz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 98.495,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Here\u2019s what happened in crypto today",
+            "text": "Today in crypto, the crypto-tied eye scanning project World is now in the US, Ripple reportedly made a $5 billion bid to acquire Circle, and an elderly US citizen was targeted in a $330 million Bitcoi...",
+            "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 0.24000000000000132,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "XRP",
+                "DOGE",
+                "FIL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bitcoin rebounds from bearish US GDP data as dip buyers push BTC price back toward $95K",
+            "text": "Key takeaways: Bitcoin bulls are attacking the $95,000 level again after today\u2019s brief US GDP-induced sell-off. Traders are semi-agnostic to negative US economic data as they expect the Federal Reserv...",
+            "url": "https://cointelegraph.com/news/bitcoin-rebounds-from-bearish-us-gdp-data-as-dip-buyers-push-btc-price-back-toward-95-k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 80.62,
+            "mentioned_cryptos": [
+                "BTC",
+                "SOL"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Cointelegraph",
+            "title": "Bloomberg Intelligence boosts Solana ETF approval odds to 90%",
+            "text": "Bloomberg Intelligence has boosted its estimated odds of US regulators approving a Solana exchange-traded fund (ETF) in 2025 to 90%, according to an April 30 post on the X platform.\u00a0The company also s...",
+            "url": "https://cointelegraph.com/news/bloomberg-boosts-solana-etf-approval-odds-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-01 17:37:34",
+            "sentiment": 99.69,
+            "mentioned_cryptos": [
+                "SOL",
+                "XRP",
+                "DOGE",
+                "DOT",
+                "LTC",
+                "FIL"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Moon Week 61",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kbha3b/moon_week_61/",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Daily Crypto Discussion - May 1, 2025 (GMT+0)",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kbva00/daily_crypto_discussion_may_1_2025_gmt0/",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Trump\u2019s first 100 days in office erase over 20,000 Bitcoin millionaires",
+            "text": "",
+            "url": "https://finbold.com/trumps-first-100-days-in-office-erase-over-20000-bitcoin-millionaires/",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Never miss another trade! Accurate trading signals. 7-day free trial.",
+            "text": "",
+            "url": "https://alb.reddit.com/cr?za=oDtx-GrYspDmnfuvWR76k3x2e2Q52uBgCLlBEa0Wc4wqI_kxCa4PE-g8cdn6PjIb0FeRtR3x0d05-8iHgmlc4VaShXyEYxztjyZMncMs4KCYtyHN0p6iLOL5dtqFpw1x8yv1v99SDeahopO6l6StAAF-nJ5o46quic8MDOA2KXdNjAHKr7DDfB_kUSGrovQFDUQ4olE2DoMBnOKUHl7b0-OB24RwMmuIPSbE1MyHrW8snBumg6qV1Vgzl2RliqHu_z-ZTkEoxBGTOKX-f35_UI9ApfA05T6PzFjF7Ju0fMnTrLupuHUQUgcjr71G37WbM9IM8hBbP8z8j1kHOzo9BxRDNJ-SHs_mc2M2ktIBjcE5I23bB5yCOuafxYliOZvuiY81AacxwrPVStLnhDT7qzqXptCReupE7NinGcjFehoiMbUChj72a2IEFI7Clts0huUEQ-EcWYfKaJvtrciesGLMJMCOOyuF3Dh1T14yayw2axyWLlGnqQeBErYXnYHZ9oU3qtw3Kby5OLwNV7aiEOZ0hKqPg2fWryPJ1bdIxe3HL0oqLbEC3_566sbHdg&zp=_As-e-jvd_kk7ekJoLx5n0Eczzq6bZJlsVRvLMyymNbPVrstm1LBE4XBCeRegj12XVVsVmSVuxnKW88d4x_q8_8XAKDokKhzlbKOkux0SaVQX8NMug7y7MFm_U2upmxOFVzr8EsNVcrDmgyNuny4eoceWyP7q78Xavmcpkzh8mXvO4c1yO2e4scGTEnuYiGDWF5J26ec7SkDtk9pWVW-L3axPDaI5uWaP124ub1dgRi_wtWhGqtEKpFxuSabfOKDAwUHxL3FB5Bsdcof",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 80.845,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Omni Agent Solutions Bittrex",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kbzsc0/omni_agent_solutions_bittrex/",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 58.894999999999996,
+            "mentioned_cryptos": [
+                "SOL"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "It's all about how you HODL",
+            "text": "",
+            "url": "https://i.redd.it/orz7aygoozxe1.png",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "The $800M Bitcoin in a landfill is getting the docuseries treatment",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kbss14/the_800m_bitcoin_in_a_landfill_is_getting_the/",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC",
+                "FIL"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "The CIA views Bitcoin as a tool they can use for payments",
+            "text": "",
+            "url": "https://www.cryptopolitan.com/the-cia-bitcoin-as-a-tool-for-payments/",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "The open source debate: Is crypto losing its soul?",
+            "text": "",
+            "url": "https://cointelegraph.com/news/open-source-debate-crypto-losing-soul",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 30.910000000000004,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Sam Altman-backed Worldcoin cryptocurrency launches in the US",
+            "text": "",
+            "url": "https://www.theverge.com/cryptocurrency/659011/worldcoin-us-launch-orb-crypto-sam-altman",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "ZachXBT says $330 million bitcoin theft victim is an 'elderly' person in US",
+            "text": "",
+            "url": "https://www.theblock.co/post/352572/zachxbt-says-330-million-bitcoin-theft-victim-is-an-elderly-person-in-us?utm_source=rss&utm_medium=rss",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 36.34,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "53% of cryptos launched since 2021 have failed, 2024 and 2025 claimed the most victims",
+            "text": "",
+            "url": "https://www.cryptopolitan.com/failed-cryptos-launch-since-2021-2024-2025/",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 17.049999999999997,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Prosecutors Seek Up To 20 Years In Prison For Celsius Founder Alex Mashinsky",
+            "text": "",
+            "url": "https://zycrypto.com/prosecutors-seek-up-to-20-years-in-prison-for-celsius-founder-alex-mashinsky/",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 24.47,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Iso AI is a financial education platform that helps you understand: \ud83d\udcc8 How your income, investments, and goals impact your future Iso AI is here to help you learn. \ud83d\udeab No advice. Just answers, explanations, and projections. \ud83c\udf93 Built with CFA-inspired training \ud83c\udf9f\ufe0f $149 Founder\u2019s Access (limited time)",
+            "text": "",
+            "url": "https://alb.reddit.com/cr?za=eZO2FVBUt_WXIbgLh_B5-MX00RiiCgRP4wCtyEskHGMIIyurBcCmoCbSsADltPuIDy87lCF1naj7JP_Wpk3zYX3BVCkinnKJCV2LYExMXIJMCwcJFUerIwqs_hWdN2weFoG3m610R9cq_LsEQPbmcTUevMTAO8iZ3L5pKm-vamjwr4hXfDYMnQKHPYCGHDBAnnJzla2sUJ9N6bUUWgC_eOesa4KMY0p4J969rtVWGLQjDzlSvdehl347KfDPEpbyqRykWcZIZjREPkLIfubtZh3fvraMyG_cYqQnKpgwIzrGgu9XlpiBTRuzjDsf8xkz-TjlzxFabfPjc1t761LVBLuJgF9mJNHMc-FA10Fj-7WsETs1qJoSbmrqhoTQr064_T2oyE_Q2zYtXxtYZppCKF6YGDCtGBLEv_PGxIj4sPECFqF__iVIDkpn24IT1cwgligJen7-VifH_a30rWOHYALPgRlZr0xuLWOfFtRRHdHt55lXMICCy_3eJOD2VRTigklZqYeejtD5I_oTVRE9XF9UE0yZXo9-bkY0_mppnUdOQeSX0zbVd20fb3578VOCRvc&zp=f0lzdvwNbyGnzhj1K7VOOimInE-Ji0snqGRJum3Ap3Fpmu7Ros0E10a-67965-devnRBmpOc5QywzZ-d8nBzdZ9A0cOfk-4419Jfdb5fYdbOsAKdDzmHa0g_Lnx_InEIqNWvU35ALTqW-bC-_XYWbEkI6d3XTW4JnJc6US6Q5pX1Rv2EEpnUdklOS60HyYZZKGtnJPvZUudty-G1Kx0AE4qDcJzOay8Zgw5XUWWeFbljSw4xn_iXYddpAZMPzptGHRqv",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 73.83500000000001,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Visa and Baanx Launch USDC Stablecoin Payment Cards",
+            "text": "",
+            "url": "https://www.coindesk.com/business/2025/04/30/visa-and-baanx-launch-usdc-stablecoin-payment-cards",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Ripple offers $4-$5B to buy Circle, but gets rebuffed",
+            "text": "",
+            "url": "https://www.thestreet.com/crypto/markets/ripple-reportedly-tried-to-buy-stablecoin-issuer-circle",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "XRP"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Bitcoin DeFi will have 300M users, beating Ethereum and Solana: Exec",
+            "text": "",
+            "url": "https://cointelegraph.com/news/bitcoin-defi-300-million-users-beating-ethereum-solana",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 27.060000000000002,
+            "mentioned_cryptos": [
+                "BTC",
+                "ETH",
+                "SOL"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Bitcoin breaks through $95k amidst ongoing rally",
+            "text": "",
+            "url": "https://crypto.news/bitcoin-breaks-through-95k-amidst-ongoing-rally/",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "$4 Billion in 2 Weeks: Bitcoin Whales Go on Massive Accumulation Spree",
+            "text": "",
+            "url": "https://cryptopotato.com/4-billion-in-2-weeks-bitcoin-whales-go-on-massive-accumulation-spree/",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "How do you automate crypto trades without losing your mind?",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kc3xc8/how_do_you_automate_crypto_trades_without_losing/",
+            "timestamp": "2025-05-01 17:37:41",
+            "sentiment": 64.62,
+            "mentioned_cryptos": []
+        }
+    ],
+    "rankings": {
+        "positive": [
+            {
+                "symbol": "FIL",
+                "name": "Filecoin",
+                "score": 50.0,
+                "change": 0,
+                "sources_count": 1
+            },
+            {
+                "symbol": "XRP",
+                "name": "Ripple",
+                "score": 50.0,
+                "change": 0,
+                "sources_count": 1
+            }
+        ],
+        "negative": [
+            {
+                "symbol": "ETH",
+                "name": "Ethereum",
+                "score": 27.060000000000002,
+                "change": 0,
+                "sources_count": 1
+            },
+            {
+                "symbol": "SOL",
+                "name": "Solana",
+                "score": 42.9775,
+                "change": 0,
+                "sources_count": 2
+            },
+            {
+                "symbol": "BTC",
+                "name": "Bitcoin",
+                "score": 44.771428571428565,
+                "change": 0,
+                "sources_count": 7
+            }
+        ]
+    }
+}

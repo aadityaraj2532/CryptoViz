@@ -1,0 +1,1113 @@
+{
+    "overall": {
+        "sentiment": 62.21558333333332,
+        "social_sentiment": 53.36749999999999,
+        "news_sentiment": 65.61066666666666,
+        "fear_greed_index": 67,
+        "timestamp": "2025-05-02 23:22:53"
+    },
+    "crypto_specific": {
+        "ADA": {
+            "sentiment_scores": [
+                50.0,
+                50.0,
+                69.08999999999999,
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Cardano Unleashes Leios: 11,000 TPS And Infinite Scalability",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Cardano Unleashes Leios: 11,000 TPS And Infinite Scalability",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "See all the benefits Scotiabank has to offer before you land in Canada.",
+                    "sentiment": 69.08999999999999
+                },
+                {
+                    "type": "reddit",
+                    "title": "Cardano (ADA) Outpaces Ethereum (ETH) in Monthly Development Activity",
+                    "sentiment": 50.0
+                }
+            ]
+        },
+        "BTC": {
+            "sentiment_scores": [
+                50.0,
+                50.0,
+                56.400000000000006,
+                58.894999999999996,
+                77.86999999999999,
+                50.0,
+                71.075,
+                50.0,
+                50.0,
+                56.400000000000006,
+                58.894999999999996,
+                77.86999999999999,
+                50.0,
+                71.075,
+                36.34,
+                84.94999999999999,
+                50.0,
+                81.245,
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Capitol Crypto: Congressman Proposes Bitcoin ATMs In Government Facilities",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "SEC to Approve SOL, XRP, and DOGE ETFs, as $1M Bitcoin Prediction Rallies New Crypto Projects",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Fantasy Pepe (FEPE) Raises $200K In Viral Crypto Presale By Adding Real Utility to Meme Coins",
+                    "sentiment": 56.400000000000006
+                },
+                {
+                    "type": "news",
+                    "title": "Crypto Users Find New Ways to Shop Without Exchanges",
+                    "sentiment": 58.894999999999996
+                },
+                {
+                    "type": "news",
+                    "title": "Best Crypto to Buy as Strategy\u2019s Q1 Financial Results Validate the Bitcoin Bet",
+                    "sentiment": 77.86999999999999
+                },
+                {
+                    "type": "news",
+                    "title": "Fewer Bitcoin Sellers? Exchange Depositing Addresses Plunge To 8-Year Low In Bullish Sign",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Aliens, Meet Bitcoin: Roswell First In US To Hold BTC Reserves",
+                    "sentiment": 71.075
+                },
+                {
+                    "type": "news",
+                    "title": "Capitol Crypto: Congressman Proposes Bitcoin ATMs In Government Facilities",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "SEC to Approve SOL, XRP, and DOGE ETFs, as $1M Bitcoin Prediction Rallies New Crypto Projects",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Fantasy Pepe (FEPE) Raises $200K In Viral Crypto Presale By Adding Real Utility to Meme Coins",
+                    "sentiment": 56.400000000000006
+                },
+                {
+                    "type": "news",
+                    "title": "Crypto Users Find New Ways to Shop Without Exchanges",
+                    "sentiment": 58.894999999999996
+                },
+                {
+                    "type": "news",
+                    "title": "Best Crypto to Buy as Strategy\u2019s Q1 Financial Results Validate the Bitcoin Bet",
+                    "sentiment": 77.86999999999999
+                },
+                {
+                    "type": "news",
+                    "title": "Fewer Bitcoin Sellers? Exchange Depositing Addresses Plunge To 8-Year Low In Bullish Sign",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Aliens, Meet Bitcoin: Roswell First In US To Hold BTC Reserves",
+                    "sentiment": 71.075
+                },
+                {
+                    "type": "reddit",
+                    "title": "Over $3 billion in Bitcoin shorts risk of liquidation if BTC hits $100,000",
+                    "sentiment": 36.34
+                },
+                {
+                    "type": "reddit",
+                    "title": "$3 Trillion Goldman Sachs Says It's Moving \"Very Fast\" And Is \"Very Active\" On Bitcoin (BTC) And Crypto - \"Clients Are Very Eager To Get Involved.\"",
+                    "sentiment": 84.94999999999999
+                },
+                {
+                    "type": "reddit",
+                    "title": "Bitcoin Surpasses Gold: 68% of Americans Turn to BTC Amid US Tariffs",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "Bitcoin Dominance Hits Four-Year High As BTC Price Tops $97,000",
+                    "sentiment": 81.245
+                },
+                {
+                    "type": "reddit",
+                    "title": "Metaplanet\u2019s Bitcoin Expansion Continues with $24.7 Million Bond Offering",
+                    "sentiment": 50.0
+                }
+            ]
+        },
+        "XRP": {
+            "sentiment_scores": [
+                50.0,
+                50.0,
+                50.0,
+                88.58500000000001,
+                50.0,
+                50.0,
+                50.0,
+                88.58500000000001
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Ripple Is \u2018Fake It Till You Make It On Steroids,\u2019 Claims Moonrock Capital CEO",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Ripple Is \u2018Fake It Till You Make It On Steroids,\u2019 Claims Moonrock Capital CEO",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "SEC to Approve SOL, XRP, and DOGE ETFs, as $1M Bitcoin Prediction Rallies New Crypto Projects",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Could XRP ETF Approval Be Near? Ripple To Meet SEC Chair Paul Atkins On May 2",
+                    "sentiment": 88.58500000000001
+                },
+                {
+                    "type": "news",
+                    "title": "Ripple Is \u2018Fake It Till You Make It On Steroids,\u2019 Claims Moonrock Capital CEO",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Ripple Is \u2018Fake It Till You Make It On Steroids,\u2019 Claims Moonrock Capital CEO",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "SEC to Approve SOL, XRP, and DOGE ETFs, as $1M Bitcoin Prediction Rallies New Crypto Projects",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Could XRP ETF Approval Be Near? Ripple To Meet SEC Chair Paul Atkins On May 2",
+                    "sentiment": 88.58500000000001
+                }
+            ]
+        },
+        "SOL": {
+            "sentiment_scores": [
+                50.0,
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "SEC to Approve SOL, XRP, and DOGE ETFs, as $1M Bitcoin Prediction Rallies New Crypto Projects",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "SEC to Approve SOL, XRP, and DOGE ETFs, as $1M Bitcoin Prediction Rallies New Crypto Projects",
+                    "sentiment": 50.0
+                }
+            ]
+        },
+        "DOGE": {
+            "sentiment_scores": [
+                50.0,
+                72.02,
+                50.0,
+                72.02
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "SEC to Approve SOL, XRP, and DOGE ETFs, as $1M Bitcoin Prediction Rallies New Crypto Projects",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Dogecoin Whales Turn On Buying Mode, Scoop Up 100 Million DOGE",
+                    "sentiment": 72.02
+                },
+                {
+                    "type": "news",
+                    "title": "SEC to Approve SOL, XRP, and DOGE ETFs, as $1M Bitcoin Prediction Rallies New Crypto Projects",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "news",
+                    "title": "Dogecoin Whales Turn On Buying Mode, Scoop Up 100 Million DOGE",
+                    "sentiment": 72.02
+                }
+            ]
+        },
+        "UNI": {
+            "sentiment_scores": [
+                71.075,
+                71.075,
+                22.13
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Aliens, Meet Bitcoin: Roswell First In US To Hold BTC Reserves",
+                    "sentiment": 71.075
+                },
+                {
+                    "type": "news",
+                    "title": "Aliens, Meet Bitcoin: Roswell First In US To Hold BTC Reserves",
+                    "sentiment": 71.075
+                },
+                {
+                    "type": "reddit",
+                    "title": "European Union to ban anonymous crypto and privacy tokens by 2027",
+                    "sentiment": 22.13
+                }
+            ]
+        },
+        "LINK": {
+            "sentiment_scores": [
+                73.83500000000001,
+                73.83500000000001
+            ],
+            "sources": [
+                {
+                    "type": "news",
+                    "title": "Sam Altman\u2019s World Launches in US With Eye Scans, Crypto Rewards, and a Tinder Pilot",
+                    "sentiment": 73.83500000000001
+                },
+                {
+                    "type": "news",
+                    "title": "Sam Altman\u2019s World Launches in US With Eye Scans, Crypto Rewards, and a Tinder Pilot",
+                    "sentiment": 73.83500000000001
+                }
+            ]
+        },
+        "ETH": {
+            "sentiment_scores": [
+                30.12,
+                50.0,
+                50.0
+            ],
+            "sources": [
+                {
+                    "type": "reddit",
+                    "title": "Tether CEO Slams EU Rules as 'Very Dangerous', Accuses ECB of Power Grab with Digital Euro",
+                    "sentiment": 30.12
+                },
+                {
+                    "type": "reddit",
+                    "title": "Ether more \u2018like a memecoin,\u2019 says trading firm as ETH drops 45% YTD",
+                    "sentiment": 50.0
+                },
+                {
+                    "type": "reddit",
+                    "title": "Cardano (ADA) Outpaces Ethereum (ETH) in Monthly Development Activity",
+                    "sentiment": 50.0
+                }
+            ]
+        }
+    },
+    "sources": [
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Cardano Unleashes Leios: 11,000 TPS And Infinite Scalability",
+            "text": "",
+            "url": "https://bitcoinist.com/cardano-leios-11000-tps-infinite-scalability/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "ADA"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Capitol Crypto: Congressman Proposes Bitcoin ATMs In Government Facilities",
+            "text": "",
+            "url": "https://bitcoinist.com/capitol-crypto-congressman-proposes-bitcoin-atms-in-government-facilities/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Ripple Is \u2018Fake It Till You Make It On Steroids,\u2019 Claims Moonrock Capital CEO",
+            "text": "",
+            "url": "https://bitcoinist.com/ripple-fake-it-till-you-make-it-on-steroids/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "XRP"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Ripple Is \u2018Fake It Till You Make It On Steroids,\u2019 Claims Moonrock Capital CEO",
+            "text": "The disclosure of Ripple Labs Inc.\u2019s overture to purchase Circle Internet Financial for a reported $4 billion to $5 billion...",
+            "url": "https://bitcoinist.com/ripple-fake-it-till-you-make-it-on-steroids/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "XRP"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "SEC to Approve SOL, XRP, and DOGE ETFs, as $1M Bitcoin Prediction Rallies New Crypto Projects",
+            "text": "The SEC is likely to approve SOL, XRP, and DOGE ETFs in the coming months. This, as another $1M Bitcoin...",
+            "url": "https://bitcoinist.com/sec-approves-3-new-etfs-1m-bitcoin-prediction-to-rally-new-crypto/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC",
+                "SOL",
+                "XRP",
+                "DOGE"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Fantasy Pepe (FEPE) Raises $200K In Viral Crypto Presale By Adding Real Utility to Meme Coins",
+            "text": "Fantasy Pepe ($FEPE) has launched and raised over $200,000 in its presale phase and pushed its token price to $0.000307....",
+            "url": "https://bitcoinist.com/fantasy-pepe-fepe-raises-200k-in-viral-crypto-presale-by-adding-real-utility-to-meme-coins/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 56.400000000000006,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Crypto Users Find New Ways to Shop Without Exchanges",
+            "text": "With the wider adoption of digital assets as an online payment option, crypto users now have more choices when it...",
+            "url": "https://bitcoinist.com/crypto-users-new-ways-to-shop/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 58.894999999999996,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Best Crypto to Buy as Strategy\u2019s Q1 Financial Results Validate the Bitcoin Bet",
+            "text": "Michael Saylor is rapidly becoming the patron saint of Bitcoin maximalist, proving all the naysayers wrong. He was an early...",
+            "url": "https://bitcoinist.com/best-crypto-to-buy-strategys-q1-results-prove-bitcoin-works/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 77.86999999999999,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Trump\u2019s World Liberty Financial Stablecoin Chosen For $2 Billion Binance Deal",
+            "text": "A stablecoin launched by Donald Trump's World Liberty Financial (WLFI) venture is being utilized by an Abu Dhabi investment firm...",
+            "url": "https://bitcoinist.com/world-liberty-financial-stablecoin-billion-binance/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 90.36999999999999,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Dogecoin Whales Turn On Buying Mode, Scoop Up 100 Million DOGE",
+            "text": "On-chain data shows the Dogecoin whales have gone on a huge accumulation spree during the past week, a sign that...",
+            "url": "https://bitcoinist.com/dogecoin-whales-turn-buying-mode-100-million-doge/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 72.02,
+            "mentioned_cryptos": [
+                "DOGE"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "World Liberty Financial\u2019s $USD1 Fuels $2B Binance Investment & Coins Like Best Wallet Token",
+            "text": "$USD1, the stablecoin behind Donald Trump\u2019s Web3 venture \u2013 World Liberty Financial \u2013 is on fire right now. Abu Dhabi-based...",
+            "url": "https://bitcoinist.com/world-liberty-financial-usd1-fuels-binance-investment-best-wallet-token/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 95.11,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Fewer Bitcoin Sellers? Exchange Depositing Addresses Plunge To 8-Year Low In Bullish Sign",
+            "text": "As Bitcoin (BTC) continues its climb toward the psychologically important $100,000 level, an increasing number of holders appear to be...",
+            "url": "https://bitcoinist.com/fewer-bitcoin-sellers-exchange-depositing-addresses-plunge-to-8-year-low-in-bullish-sign/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Could XRP ETF Approval Be Near? Ripple To Meet SEC Chair Paul Atkins On May 2",
+            "text": "As positive shifts in cryptocurrency regulation unfold under President Donald Trump's second administration, speculation is mounting regarding the potential approval...",
+            "url": "https://bitcoinist.com/could-xrp-etf-approval-be-near-ripple-to-meet-sec/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 88.58500000000001,
+            "mentioned_cryptos": [
+                "XRP"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Aliens, Meet Bitcoin: Roswell First In US To Hold BTC Reserves",
+            "text": "Roswell, New Mexico has made history in municipal finance by becoming the first city in the United States to have...",
+            "url": "https://bitcoinist.com/aliens-meet-bitcoin-roswell-first-in-us-to-hold-btc-reserves/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 71.075,
+            "mentioned_cryptos": [
+                "BTC",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Sam Altman\u2019s World Launches in US With Eye Scans, Crypto Rewards, and a Tinder Pilot",
+            "text": "Sam Altman\u2019s crypto-linked human identity project, known as World, is beginning its US expansion with new features that integrate both...",
+            "url": "https://bitcoinist.com/sam-altmans-world-eye-crypto-rewards-tinder-pilot/",
+            "timestamp": "2025-05-02 23:22:41",
+            "sentiment": 73.83500000000001,
+            "mentioned_cryptos": [
+                "LINK"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Cardano Unleashes Leios: 11,000 TPS And Infinite Scalability",
+            "text": "",
+            "url": "https://bitcoinist.com/cardano-leios-11000-tps-infinite-scalability/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "ADA"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Capitol Crypto: Congressman Proposes Bitcoin ATMs In Government Facilities",
+            "text": "",
+            "url": "https://bitcoinist.com/capitol-crypto-congressman-proposes-bitcoin-atms-in-government-facilities/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Ripple Is \u2018Fake It Till You Make It On Steroids,\u2019 Claims Moonrock Capital CEO",
+            "text": "",
+            "url": "https://bitcoinist.com/ripple-fake-it-till-you-make-it-on-steroids/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "XRP"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Ripple Is \u2018Fake It Till You Make It On Steroids,\u2019 Claims Moonrock Capital CEO",
+            "text": "The disclosure of Ripple Labs Inc.\u2019s overture to purchase Circle Internet Financial for a reported $4 billion to $5 billion...",
+            "url": "https://bitcoinist.com/ripple-fake-it-till-you-make-it-on-steroids/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "XRP"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "SEC to Approve SOL, XRP, and DOGE ETFs, as $1M Bitcoin Prediction Rallies New Crypto Projects",
+            "text": "The SEC is likely to approve SOL, XRP, and DOGE ETFs in the coming months. This, as another $1M Bitcoin...",
+            "url": "https://bitcoinist.com/sec-approves-3-new-etfs-1m-bitcoin-prediction-to-rally-new-crypto/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC",
+                "SOL",
+                "XRP",
+                "DOGE"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Fantasy Pepe (FEPE) Raises $200K In Viral Crypto Presale By Adding Real Utility to Meme Coins",
+            "text": "Fantasy Pepe ($FEPE) has launched and raised over $200,000 in its presale phase and pushed its token price to $0.000307....",
+            "url": "https://bitcoinist.com/fantasy-pepe-fepe-raises-200k-in-viral-crypto-presale-by-adding-real-utility-to-meme-coins/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 56.400000000000006,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Crypto Users Find New Ways to Shop Without Exchanges",
+            "text": "With the wider adoption of digital assets as an online payment option, crypto users now have more choices when it...",
+            "url": "https://bitcoinist.com/crypto-users-new-ways-to-shop/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 58.894999999999996,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Best Crypto to Buy as Strategy\u2019s Q1 Financial Results Validate the Bitcoin Bet",
+            "text": "Michael Saylor is rapidly becoming the patron saint of Bitcoin maximalist, proving all the naysayers wrong. He was an early...",
+            "url": "https://bitcoinist.com/best-crypto-to-buy-strategys-q1-results-prove-bitcoin-works/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 77.86999999999999,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Trump\u2019s World Liberty Financial Stablecoin Chosen For $2 Billion Binance Deal",
+            "text": "A stablecoin launched by Donald Trump's World Liberty Financial (WLFI) venture is being utilized by an Abu Dhabi investment firm...",
+            "url": "https://bitcoinist.com/world-liberty-financial-stablecoin-billion-binance/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 90.36999999999999,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Dogecoin Whales Turn On Buying Mode, Scoop Up 100 Million DOGE",
+            "text": "On-chain data shows the Dogecoin whales have gone on a huge accumulation spree during the past week, a sign that...",
+            "url": "https://bitcoinist.com/dogecoin-whales-turn-buying-mode-100-million-doge/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 72.02,
+            "mentioned_cryptos": [
+                "DOGE"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "World Liberty Financial\u2019s $USD1 Fuels $2B Binance Investment & Coins Like Best Wallet Token",
+            "text": "$USD1, the stablecoin behind Donald Trump\u2019s Web3 venture \u2013 World Liberty Financial \u2013 is on fire right now. Abu Dhabi-based...",
+            "url": "https://bitcoinist.com/world-liberty-financial-usd1-fuels-binance-investment-best-wallet-token/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 95.11,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Fewer Bitcoin Sellers? Exchange Depositing Addresses Plunge To 8-Year Low In Bullish Sign",
+            "text": "As Bitcoin (BTC) continues its climb toward the psychologically important $100,000 level, an increasing number of holders appear to be...",
+            "url": "https://bitcoinist.com/fewer-bitcoin-sellers-exchange-depositing-addresses-plunge-to-8-year-low-in-bullish-sign/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Could XRP ETF Approval Be Near? Ripple To Meet SEC Chair Paul Atkins On May 2",
+            "text": "As positive shifts in cryptocurrency regulation unfold under President Donald Trump's second administration, speculation is mounting regarding the potential approval...",
+            "url": "https://bitcoinist.com/could-xrp-etf-approval-be-near-ripple-to-meet-sec/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 88.58500000000001,
+            "mentioned_cryptos": [
+                "XRP"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Aliens, Meet Bitcoin: Roswell First In US To Hold BTC Reserves",
+            "text": "Roswell, New Mexico has made history in municipal finance by becoming the first city in the United States to have...",
+            "url": "https://bitcoinist.com/aliens-meet-bitcoin-roswell-first-in-us-to-hold-btc-reserves/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 71.075,
+            "mentioned_cryptos": [
+                "BTC",
+                "UNI"
+            ]
+        },
+        {
+            "type": "news",
+            "source": "Bitcoinist",
+            "title": "Sam Altman\u2019s World Launches in US With Eye Scans, Crypto Rewards, and a Tinder Pilot",
+            "text": "Sam Altman\u2019s crypto-linked human identity project, known as World, is beginning its US expansion with new features that integrate both...",
+            "url": "https://bitcoinist.com/sam-altmans-world-eye-crypto-rewards-tinder-pilot/",
+            "timestamp": "2025-05-02 23:22:42",
+            "sentiment": 73.83500000000001,
+            "mentioned_cryptos": [
+                "LINK"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Moon Week 61",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kbha3b/moon_week_61/",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Daily Crypto Discussion - May 2, 2025 (GMT+0)",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kcnhf6/daily_crypto_discussion_may_2_2025_gmt0/",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "$100k before $2k",
+            "text": "",
+            "url": "https://i.redd.it/4oixie2yheye1.png",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Combine the security of your Ledger with the privacy of our open-source wallet \ud83d\udd10 Download Cake Wallet for free today:",
+            "text": "",
+            "url": "https://alb.reddit.com/cr?za=A3XnNhY_P9YRn2js15rosRdEayXUxjRLJ7WwTzhtmeUUwbSliQmwDANXeExYho1c9zK_2wRqlwqoWC3KfnC2Nm3Kybs4mhq_K1J56Gn7trhjfQtxD1NVEgGxhkZmMCCOiTb5AFxNzPvjl2D_L2OHFZdKdkwSRD9Qq5zMnlqN1ca2PpW-xUX64PmRx4ELTPsPShWmCc10TQT_gZneC-uSs7eu7-t9WpiLNKlaBEm8EfOcfsyUe6ncZGM-7eSrMXyA6r3VV5COs04LBRyYdl3HtN88vmzXYdG3BLqWV8Oq39arw8ajYj3M9sUHkgNQjNt3Amk2hpkuvOqKWT7UdYoAKDr0egBpg317GpcoIyuG0svEIJgSG759FgwVtDezTl0RNDVrPrTXbOVZV0hJ2P6EBpStWA_WibhuOjuxSAyc09cHd3FuxB_q3AW_IoiPlHsNkuVlK7cXNpVsMRT9vF2WK_n_Q3Yhr_I8EpQHgKgIeuSN2T7jPJ2qAmXjR5SudJfhIruAz2VAbSzrl9AxqYrCr24PWqWFftTEFtSPRxvdArYmiGcmpo0cAIFZgAsD-tdo&zp=rDgkNot7A76JgCWI9U5AEWJ0Ikw2Z-URFP0fAT6bq4KVPMwqWyBxkeEOP1gyuP6lvt60qYC1uUc8OjmZZ0Qj5kwe8yi8nJkKDD-fkrh4Zxr27PrpZ5fKVUG2Qz-MPCk_73lO1emaP2TsnbM2yypPadZ2OgYHwXOb6LSptGL0Zc2CpXVj4OUVK8XosVbVCF_D7XRCQu47mBqYSXRQ9t5Tpu6E-Ho6FuuPwb_y36JJyCnjBxvXPO8Ky3eJ3Xo-h2AgamXA-w",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 84.53999999999999,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Over $3 billion in Bitcoin shorts risk of liquidation if BTC hits $100,000",
+            "text": "",
+            "url": "https://finbold.com/over-3-billion-in-bitcoin-shorts-risk-of-liquidation-if-btc-hits-100000/",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 36.34,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "European Union to ban anonymous crypto and privacy tokens by 2027",
+            "text": "",
+            "url": "https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 22.13,
+            "mentioned_cryptos": [
+                "UNI"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Men are men...Proof of work beats the Proof of love.",
+            "text": "",
+            "url": "https://i.redd.it/nw75tshne9ye1.jpeg",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 81.845,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "$3 Trillion Goldman Sachs Says It's Moving \"Very Fast\" And Is \"Very Active\" On Bitcoin (BTC) And Crypto - \"Clients Are Very Eager To Get Involved.\"",
+            "text": "",
+            "url": "https://i.redd.it/dggjezeb0dye1.png",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 84.94999999999999,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Crypto Users lose Millions by using Crypto exchange Changelly",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kd2541/crypto_users_lose_millions_by_using_crypto/",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 29.905000000000005,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Bitcoin Surpasses Gold: 68% of Americans Turn to BTC Amid US Tariffs",
+            "text": "",
+            "url": "https://news.bitcoin.com/bitcoin-surpasses-gold-68-of-americans-turn-to-btc-amid-us-tariffs/",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "\"Thats not how it works\"",
+            "text": "",
+            "url": "https://i.redd.it/qputmi3ht6ye1.jpeg",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "See all the benefits Scotiabank has to offer before you land in Canada.",
+            "text": "",
+            "url": "https://alb.reddit.com/cr?za=04t5JldJJlB8V4GqtaX-tXSvntAT8XoiD-Hg6_EnlYBFfONPZZ0c-7DPsYGbTFghC2nL93DS1vDls8X59H2Ym2Ars7pi2AzyluI0y5pcwbU7Xps9jA-G_PqpOnwPnyyAkcpuiRfNlNKLq3fR9F3XFXrQXz8uMkzlcbroQE6uzdQrmVRiKORtQy6N8DYQhHdlMArBgzN8ChPa30qzfY5JzXygPuLZd91P-ORrhxZ7GM7FMmUnddkrarXbDwzvysBZaKWv45ogak3Kwg2WP5wjukaWE8vEdlB5l9lE0T3jAnd-DkfRgN2Jh_dh0AFR5krm_PcC_ZlpkgZYUwZwSHt7SxNg4vccOI88blASxMXXzdEwWmfqlnH6Zh_fKrpEwBJoRDLwd16LcIgNl7t1PZ9vtpqUYgfUij1e6AQvmDNnytZX4QW9FNv-xOioHekAoWwvNXQLQHng1Eh7yXYJ9fAGJGlAWZN7ojWsvQMtoOZ3BOp7IOvOcZJUkWp05Hw5D2b99MiAk9QzNzG8sOQLhu0nCHStyqb2X5EXNBfD_HvEDQx_25apF9nLozoHIBVmap_HC5s&zp=B7jxJ6da_BTgjkEZq1OGBH0T9-5ffzgW-XEt1ZuougnXjgAJa772MYo39Y2NTFYNgPzjL82HC53jJ1err9-n1TF2OFsxC6eqwaYFmpK7lnxfONgqMAUUBxGJIPDUoYNEVQH8a1BtvwgRBsFzm-BFAw-aNZSIvwH1DI09S2Tdv8ZZ7Ke5O_LES5I8kf0jxRldlhQ6HolY9VUxRLvEGxyhhLnPnJkR5a-4eMgWDWzxLCgkapAUN_5beVbNoyeRaNVAJjt2s8iuwJaUGUBe1d8YsHE_bRTXYFWN4wNWnB-TmzS4_pF7mULvKNtWeRbv8Fxw4w14HDv6-RcDv6Aj_k-k1A86XYKG9h0jnQmxoo0k2_YzASMYQrrZy05mNYeyLznXkce4AZ1NDBqc1O1NVh09UHJHlz-ScaUGgeiu9Gn71m0g8h677pDmYLmm2v981sMIX5OSOZUcqL-qnUDE4NtySQfZrvdp42EqApVts5pjPvlN",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 69.08999999999999,
+            "mentioned_cryptos": [
+                "ADA"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Tether CEO Slams EU Rules as 'Very Dangerous', Accuses ECB of Power Grab with Digital Euro",
+            "text": "",
+            "url": "https://i.redd.it/wxps2go9meye1.png",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 30.12,
+            "mentioned_cryptos": [
+                "ETH"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Ether more \u2018like a memecoin,\u2019 says trading firm as ETH drops 45% YTD",
+            "text": "",
+            "url": "https://cointelegraph.com/news/ether-more-like-memecoin-two-prime-bitcoin-only?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "ETH"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Metaplanet\u2019s Bitcoin Expansion Continues with $24.7 Million Bond Offering",
+            "text": "",
+            "url": "https://beincrypto.com/metaplanet-bitcoin-bond-expansion/",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "BTC"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Trump\u2019s first 100 days \u2018worst in history\u2019 despite crypto promises",
+            "text": "",
+            "url": "https://cointelegraph.com/news/trump-first-100-days-worst-in-history-despite-crypto-promises",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 35.38,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "Cardano (ADA) Outpaces Ethereum (ETH) in Monthly Development Activity",
+            "text": "",
+            "url": "https://zycrypto.com/cardano-ada-outpaces-ethereum-eth-in-monthly-development-activity/?amp",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 50.0,
+            "mentioned_cryptos": [
+                "ETH",
+                "ADA"
+            ]
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "What if someone mistakenly sent you $6k to your wallet in exchange? You know their contact info but is a stranger. What would you do?",
+            "text": "",
+            "url": "https://www.reddit.com/r/CryptoCurrency/comments/1kcnvh8/what_if_someone_mistakenly_sent_you_6k_to_your/",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 37.97,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "reddit",
+            "source": "r/CryptoCurrency",
+            "title": "AGENT JIDO is live \u2014 a multi-agent system surfacing real-time intelligence in AI",
+            "text": "",
+            "url": "https://alb.reddit.com/cr?za=SLe38oJBQful89m0GEgPthgC54I5zCUmH7KUopLBQGQjk1mY9qt61-Nfl_CV5SR3LlQQWI_x1nZtzBRcKxkRqqZn8KeDFz2YvlXDzTDDGhKQbzZWyw4zOdR7Pe8tNyw3mgC8J8t6iAzCcKazb-v5dbg3ssBdK2Yxb39Reqxa5XTkmM7jJxz5Lix5cVUJiPlv5krUYp3AU9Dg-3BUBrKyQCcMml4WJfvB8ly0verfaJ6k9sM1iuKgZ_eLIY2ugow6HbvUY8UBsKa8gs0dKo-sv5bYbKZy61WPxjFelhpt01qhVdbA5o-tlUckG5DC7Tj053z3rnylaxp4i3lp1EO4aq0tT5DvqByzJroEeTderUcoxM0gSwTA2UsSx5DyjIig9xeGrrTJ4DPTRtj3utEEF8yNoTfwgywP77fxj8GafgrXUfqd6w4BIm8U9MplP45c2JfCnOWTNkXgzbnHLuI9xPfty-sHun2yTZvLBMrxLsAFWosU9FGMIyJCoECmBw8AioFx56YdCsqPIqZFwaxauyAx12d_SKikDe57BaU1zXHNX3ebtDNe5XQWUkH8OK8Sq0-l7O_M&zp=hzlL1HeXcJVn2UiUmQHT8rpRB3UtJK2pQGHeRUyBckC2SriSM0LleZ3oqd9Pc3EJ42frfEOJn0WXPpdJlUnus0HHyj1h6lLcHRWqnDcxMQJZ2CJh7yYqwst8u0WWclF-6zKhp3IDCJflkuMYhNdTXCyHl4PJta-cCQx26HVPybIsZaIRuiZR0kDxYsfE4RK6isE1kG1nXpKkwCG_n5ddvA6DiiZ7clD_hq_4vKYSPKNf4pvv1dYreCcx9psQpaAdrLcwwFGE8jgQxVkrAI3wy50iXE0RNnBvW1onP5xehVCu_iuNASKCrM_iOg3CVA4Nwg3EAA",
+            "timestamp": "2025-05-02 23:22:45",
+            "sentiment": 73.83500000000001,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@Cointelegraph",
+            "title": "Cointelegraph",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/Cointelegraph/status/17462083700",
+            "timestamp": "2025-05-02 23:22:50",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@Cointelegraph",
+            "title": "Cointelegraph",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/Cointelegraph/status/17462083701",
+            "timestamp": "2025-05-02 23:22:50",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@Cointelegraph",
+            "title": "Cointelegraph",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/Cointelegraph/status/17462083702",
+            "timestamp": "2025-05-02 23:22:50",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@Cointelegraph",
+            "title": "Cointelegraph",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/Cointelegraph/status/17462083703",
+            "timestamp": "2025-05-02 23:22:50",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@Cointelegraph",
+            "title": "Cointelegraph",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/Cointelegraph/status/17462083704",
+            "timestamp": "2025-05-02 23:22:50",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@Cointelegraph",
+            "title": "Cointelegraph",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/Cointelegraph/status/17462083705",
+            "timestamp": "2025-05-02 23:22:50",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@Cointelegraph",
+            "title": "Cointelegraph",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/Cointelegraph/status/17462083706",
+            "timestamp": "2025-05-02 23:22:50",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@Cointelegraph",
+            "title": "Cointelegraph",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/Cointelegraph/status/17462083707",
+            "timestamp": "2025-05-02 23:22:50",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@CoinDesk",
+            "title": "CoinDesk",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/CoinDesk/status/17462083710",
+            "timestamp": "2025-05-02 23:22:51",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@CoinDesk",
+            "title": "CoinDesk",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/CoinDesk/status/17462083711",
+            "timestamp": "2025-05-02 23:22:51",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@CoinDesk",
+            "title": "CoinDesk",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/CoinDesk/status/17462083712",
+            "timestamp": "2025-05-02 23:22:51",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@CoinDesk",
+            "title": "CoinDesk",
+            "text": "Breaking: Major institutional investors are increasing their cryptocurrency holdings according to our latest report. #crypto #investment",
+            "url": "https://x.com/CoinDesk/status/17462083713",
+            "timestamp": "2025-05-02 23:22:51",
+            "original_source": true,
+            "sentiment": 50.0,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@VitalikButerin",
+            "title": "Vitalik Buterin",
+            "text": "Working on some exciting new developments for the blockchain ecosystem. The future of decentralized finance is bright! #blockchain #development",
+            "url": "https://x.com/VitalikButerin/status/17462083720",
+            "timestamp": "2025-05-02 23:22:52",
+            "original_source": true,
+            "sentiment": 87.5,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@VitalikButerin",
+            "title": "Vitalik Buterin",
+            "text": "Working on some exciting new developments for the blockchain ecosystem. The future of decentralized finance is bright! #blockchain #development",
+            "url": "https://x.com/VitalikButerin/status/17462083721",
+            "timestamp": "2025-05-02 23:22:52",
+            "original_source": true,
+            "sentiment": 87.5,
+            "mentioned_cryptos": []
+        },
+        {
+            "type": "x",
+            "source": "@cz_binance",
+            "title": "CZ",
+            "text": "The crypto market is evolving rapidly. Regulation and innovation need to work hand in hand for sustainable growth. #cryptocurrency #future",
+            "url": "https://x.com/cz_binance/status/17462083730",
+            "timestamp": "2025-05-02 23:22:53",
+            "original_source": true,
+            "sentiment": 94.55,
+            "mentioned_cryptos": []
+        }
+    ],
+    "rankings": {
+        "positive": [
+            {
+                "symbol": "LINK",
+                "name": "Chainlink",
+                "score": 73.83500000000001,
+                "change": 0,
+                "sources_count": 2
+            },
+            {
+                "symbol": "DOGE",
+                "name": "Dogecoin",
+                "score": 61.01,
+                "change": 0,
+                "sources_count": 4
+            },
+            {
+                "symbol": "XRP",
+                "name": "Ripple",
+                "score": 59.64625,
+                "change": 0,
+                "sources_count": 8
+            },
+            {
+                "symbol": "BTC",
+                "name": "Bitcoin",
+                "score": 59.527105263157885,
+                "change": 0,
+                "sources_count": 19
+            },
+            {
+                "symbol": "ADA",
+                "name": "Cardano",
+                "score": 54.772499999999994,
+                "change": 0,
+                "sources_count": 4
+            }
+        ],
+        "negative": [
+            {
+                "symbol": "ETH",
+                "name": "Ethereum",
+                "score": 43.373333333333335,
+                "change": 0,
+                "sources_count": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+/* Standardized Header Styles for all pages */
+
+/* Header Styles */
+.app-header {
+    padding: 2rem 0;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    background-color: var(--card-bg) !important;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.logo-icon {
+    width: 2rem;
+    height: 2rem;
+    color: var(--primary-color);
+    display: inline-block;
+}
+
+.logo h1 {
+    font-weight: 700;
+    font-size: 2rem;
+    margin: 0;
+}
+
+.logo span {
+    color: var(--primary-color);
+}
+
+.subtitle {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+    margin-bottom: 0;
+}
+
+/* Theme Switcher */
+.theme-switcher {
+    position: relative;
+}
+
+.theme-toggle {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background: transparent;
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    padding: 0;
+    outline: none;
+    z-index: 100;
+}
+
+.theme-toggle:hover {
+    background-color: var(--hover-bg);
+    transform: scale(1.05);
+}
+
+.theme-toggle:active {
+    transform: scale(0.95);
+}
+
+.theme-toggle span {
+    position: absolute;
+    transition: all 0.3s ease;
+    pointer-events: none;
+}
+
+.theme-icon {
+    width: 1.25rem;
+    height: 1.25rem;
+    color: var(--text-color);
+}
+
+.theme-toggle #moonIcon {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.theme-toggle #sunIcon {
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+[data-theme="dark"] .theme-toggle #moonIcon {
+    opacity: 0;
+    transform: translateY(-20px);
+}
+
+[data-theme="dark"] .theme-toggle #sunIcon {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .header-content {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .app-header {
+        padding: 1.5rem 0;
+    }
+
+    .logo h1 {
+        font-size: 1.75rem;
+    }
+
+    .subtitle {
+        font-size: 1rem;
+    }
+}

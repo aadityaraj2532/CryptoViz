@@ -1,0 +1,202 @@
+[
+    {
+        "symbol": "kaito",
+        "name": "KAITO",
+        "price": 1.27,
+        "market_cap": 305988318.0,
+        "volume_24h": 418038460.0,
+        "percent_change_24h": 51.73177,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 1
+    },
+    {
+        "symbol": "stx",
+        "name": "Stacks",
+        "price": 0.871717,
+        "market_cap": 1328244190.0,
+        "volume_24h": 114516434.0,
+        "percent_change_24h": 15.46097,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 2
+    },
+    {
+        "symbol": "syrup",
+        "name": "Maple Finance",
+        "price": 0.232472,
+        "market_cap": 249991370.0,
+        "volume_24h": 195171618.0,
+        "percent_change_24h": 15.13081,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 3
+    },
+    {
+        "symbol": "cvx",
+        "name": "Convex Finance",
+        "price": 3.14,
+        "market_cap": 257715347.0,
+        "volume_24h": 32613270.0,
+        "percent_change_24h": 14.62729,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 4
+    },
+    {
+        "symbol": "popcat",
+        "name": "Popcat",
+        "price": 0.414933,
+        "market_cap": 406604329.0,
+        "volume_24h": 159066888.0,
+        "percent_change_24h": 11.78729,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 5
+    },
+    {
+        "symbol": "ltc",
+        "name": "Litecoin",
+        "price": 91.35,
+        "market_cap": 6927384911.0,
+        "volume_24h": 848243856.0,
+        "percent_change_24h": 11.72005,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 6
+    },
+    {
+        "symbol": "dog",
+        "name": "Dog (Bitcoin)",
+        "price": 0.00282859,
+        "market_cap": 282857191.0,
+        "volume_24h": 10387872.0,
+        "percent_change_24h": 10.72765,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 7
+    },
+    {
+        "symbol": "mog",
+        "name": "Mog Coin",
+        "price": 6.66679e-07,
+        "market_cap": 261410772.0,
+        "volume_24h": 19089899.0,
+        "percent_change_24h": 10.33395,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 8
+    },
+    {
+        "symbol": "xcn",
+        "name": "Onyxcoin",
+        "price": 0.0173891,
+        "market_cap": 582651210.0,
+        "volume_24h": 70824468.0,
+        "percent_change_24h": 9.59737,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 9
+    },
+    {
+        "symbol": "qnt",
+        "name": "Quant",
+        "price": 89.67,
+        "market_cap": 1303993399.0,
+        "volume_24h": 29169103.0,
+        "percent_change_24h": 9.59408,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 10
+    },
+    {
+        "symbol": "brett",
+        "name": "Brett",
+        "price": 0.053685,
+        "market_cap": 529223075.0,
+        "volume_24h": 46842527.0,
+        "percent_change_24h": 8.56293,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 11
+    },
+    {
+        "symbol": "aero",
+        "name": "Aerodrome Finance",
+        "price": 0.620204,
+        "market_cap": 501172259.0,
+        "volume_24h": 41975451.0,
+        "percent_change_24h": 7.98937,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 12
+    },
+    {
+        "symbol": "iota",
+        "name": "IOTA",
+        "price": 0.206521,
+        "market_cap": 777847402.0,
+        "volume_24h": 23198228.0,
+        "percent_change_24h": 7.94161,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 13
+    },
+    {
+        "symbol": "whype",
+        "name": "Wrapped HYPE",
+        "price": 21.25,
+        "market_cap": 299549126.0,
+        "volume_24h": 29261737.0,
+        "percent_change_24h": 7.91905,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 14
+    },
+    {
+        "symbol": "hype",
+        "name": "Hyperliquid",
+        "price": 21.18,
+        "market_cap": 7066012507.0,
+        "volume_24h": 134084081.0,
+        "percent_change_24h": 7.74091,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 15
+    },
+    {
+        "symbol": "wld",
+        "name": "Worldcoin",
+        "price": 0.935188,
+        "market_cap": 1288097809.0,
+        "volume_24h": 200670047.0,
+        "percent_change_24h": 7.55522,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 16
+    },
+    {
+        "symbol": "ray",
+        "name": "Raydium",
+        "price": 2.43,
+        "market_cap": 707181713.0,
+        "volume_24h": 96824973.0,
+        "percent_change_24h": 7.53629,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 17
+    },
+    {
+        "symbol": "axl",
+        "name": "Axelar",
+        "price": 0.366059,
+        "market_cap": 345487438.0,
+        "volume_24h": 13351262.0,
+        "percent_change_24h": 7.49878,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 18
+    },
+    {
+        "symbol": "wif",
+        "name": "dogwifhat",
+        "price": 0.568254,
+        "market_cap": 567644012.0,
+        "volume_24h": 184710562.0,
+        "percent_change_24h": 7.3617,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 19
+    },
+    {
+        "symbol": "ip",
+        "name": "Story",
+        "price": 3.78,
+        "market_cap": 1019488625.0,
+        "volume_24h": 58526055.0,
+        "percent_change_24h": 7.07843,
+        "timestamp": "2025-05-07 17:10:55",
+        "rank": 20
+    }
+]

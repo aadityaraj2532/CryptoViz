@@ -1,0 +1,274 @@
+/* Top Gainers Page Specific Styles */
+
+/* Equal height row */
+.row-equal-height {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row-equal-height > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Chart Container */
+.chart-container {
+    margin-top: 10px;
+    flex: 1;
+    /* Use common.css responsive settings */
+}
+
+/* Specific style for top gainers chart */
+#topGainersChart {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+/* Top Gainers Overview Panel */
+.top-gainers-overview-panel, .top-gainers-chart-panel {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.top-gainers-overview-panel .card-body, .top-gainers-chart-panel .card-body {
+    padding: 1.5rem;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.overview-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+/* Overview Stats */
+.overview-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.75rem;
+    margin-top: 0.75rem;
+}
+
+.stat-item {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 0.75rem;
+    text-align: center;
+}
+
+.stat-label {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+}
+
+.stat-value {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+/* Last Updated Styling */
+#lastUpdated {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    background-color: rgba(var(--primary-color-rgb), 0.1);
+    padding: 4px 8px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-top: 5px;
+    cursor: help;
+    transition: all 0.3s ease;
+}
+
+#lastUpdated:hover {
+    background-color: rgba(var(--primary-color-rgb), 0.2);
+}
+
+/* Refresh Button */
+.refresh-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+#refreshButton {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+#refreshButton:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Top Gainers Table */
+.top-gainers-table-panel .card-header {
+    padding: 1rem 1.5rem;
+}
+
+.top-gainers-table-panel .card-header h2 {
+    margin-bottom: 0;
+    font-size: 1.5rem;
+    color: var(--text-color);
+}
+
+.table-controls {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.input-group {
+    width: 250px;
+}
+
+/* Gainers Table */
+.gainers-table {
+    width: 100%;
+    border-collapse: collapse;
+    color: var(--text-color);
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: var(--card-shadow);
+    margin-bottom: 0;
+}
+
+.gainers-table th,
+.gainers-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.gainers-table th {
+    background-color: var(--table-header-bg);
+    color: var(--text-color);
+    font-weight: 600;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.gainers-table tbody tr {
+    transition: background-color 0.2s ease;
+}
+
+.gainers-table tbody tr:hover {
+    background-color: var(--hover-bg);
+}
+
+.gainers-table .crypto-name {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.gainers-table .crypto-name-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.gainers-table .crypto-name span {
+    color: var(--text-color);
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+
+.gainers-table .crypto-name small {
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    opacity: 0.8;
+}
+
+.gainers-table .crypto-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+
+/* Price Change Styling */
+.price-change {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: 600;
+    padding: 4px 8px;
+    border-radius: 4px;
+    width: fit-content;
+}
+
+.price-change.positive {
+    color: var(--positive-color);
+    background-color: rgba(var(--positive-color-rgb), 0.1);
+}
+
+.price-change.negative {
+    color: var(--negative-color);
+    background-color: rgba(var(--negative-color-rgb), 0.1);
+}
+
+/* Loading and Error Overlays */
+.loading-spinner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.loading-spinner p {
+    margin-top: 10px;
+    color: var(--text-color);
+}
+
+.error-message {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    color: var(--negative-color);
+    text-align: center;
+}
+
+.error-message i {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .overview-stats {
+        grid-template-columns: 1fr;
+    }
+
+    .table-controls {
+        margin-top: 1rem;
+        width: 100%;
+    }
+
+    .input-group {
+        width: 100%;
+    }
+
+    .gainers-table th,
+    .gainers-table td {
+        padding: 8px 10px;
+    }
+
+    .gainers-table .crypto-name {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+}
